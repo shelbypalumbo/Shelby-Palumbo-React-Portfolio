@@ -1,0 +1,23 @@
+.wrapper {  
+    font-family: 'Questrial', sans-serif;  
+    display: flex;
+    background-image: url("../../images/fern.jpg");
+    background-size: cover;
+    background-repeat: no-repeat; 
+}
+
+a { color:#4e4d4d;
+}
+
+a:focus {   opacity: 50%;
+}
+
+.btn {  background-color:#f5e675; 
+    color: black;
+}
+
+a:hover {   opacity: 40%;
+}
+
+p { font-size: 13pt;
+}
