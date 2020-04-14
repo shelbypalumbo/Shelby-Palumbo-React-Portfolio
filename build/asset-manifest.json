@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/shelbypalumbo/Shelby-Palumbo-React-Portfolio/static/css/main.b2b90a8c.chunk.css",
+    "main.js": "/shelbypalumbo/Shelby-Palumbo-React-Portfolio/static/js/main.388bf844.chunk.js",
+    "main.js.map": "/shelbypalumbo/Shelby-Palumbo-React-Portfolio/static/js/main.388bf844.chunk.js.map",
+    "runtime-main.js": "/shelbypalumbo/Shelby-Palumbo-React-Portfolio/static/js/runtime-main.7cd61bf9.js",
+    "runtime-main.js.map": "/shelbypalumbo/Shelby-Palumbo-React-Portfolio/static/js/runtime-main.7cd61bf9.js.map",
+    "static/js/2.725e3fc6.chunk.js": "/shelbypalumbo/Shelby-Palumbo-React-Portfolio/static/js/2.725e3fc6.chunk.js",
+    "static/js/2.725e3fc6.chunk.js.map": "/shelbypalumbo/Shelby-Palumbo-React-Portfolio/static/js/2.725e3fc6.chunk.js.map",
+    "index.html": "/shelbypalumbo/Shelby-Palumbo-React-Portfolio/index.html",
+    "precache-manifest.7170ddbf959b16d850573459e79fa108.js": "/shelbypalumbo/Shelby-Palumbo-React-Portfolio/precache-manifest.7170ddbf959b16d850573459e79fa108.js",
+    "service-worker.js": "/shelbypalumbo/Shelby-Palumbo-React-Portfolio/service-worker.js",
+    "static/css/main.b2b90a8c.chunk.css.map": "/shelbypalumbo/Shelby-Palumbo-React-Portfolio/static/css/main.b2b90a8c.chunk.css.map",
+    "static/js/2.725e3fc6.chunk.js.LICENSE.txt": "/shelbypalumbo/Shelby-Palumbo-React-Portfolio/static/js/2.725e3fc6.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/shelbypalumbo/Shelby-Palumbo-React-Portfolio/static/media/fern_2.659a1504.jpg",
+    "static/media/gitHub.png": "/shelbypalumbo/Shelby-Palumbo-React-Portfolio/static/media/gitHub.2c7032e5.png",
+    "static/media/headshot2.png": "/shelbypalumbo/Shelby-Palumbo-React-Portfolio/static/media/headshot2.bf9f6cda.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7cd61bf9.js",
+    "static/js/2.725e3fc6.chunk.js",
+    "static/css/main.b2b90a8c.chunk.css",
+    "static/js/main.388bf844.chunk.js"
+  ]
+}
