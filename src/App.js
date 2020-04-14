@@ -10,7 +10,7 @@ import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
 import Wrapper from "./components/Wrapper";
 import Jumbotron from "./components/Jumbotron";
-import Container from "./components/Container";
+
 
 function App() {
   return (
@@ -19,14 +19,12 @@ function App() {
         <Jumbotron></Jumbotron>
         <Navbar />
         <Wrapper>
-          <Container>
           <Route exact path="/cover" component={Cover} />
           <Route exact path="/about" component={About} />
           <Route exact path="/design" component={Design} />
           <Route exact path="/tech" component={Tech} />
           <Route exact path="/resume" component={Resume} />
           <Route exact path="/contact" component={Contact} />
-          </Container>
         </Wrapper>
         <Footer />
       </div>

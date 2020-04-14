@@ -1,24 +1,23 @@
 import React from 'react';
 import "./style.css";
-import {Link} from "react-router-dom";
-import webDevProjects from "../../webDevProjects.json";
+// import {Link} from "react-router-dom";
 
-function Card() {
+function Card(props) {
 
     return (
-        <div className="card">
-            <img src={webDevProjects.image} className="card-img-top" alt={webDevProjects.card_title} />
+        <div key={props.id} className="card">
+            <img src={props.image} className="card-img-top" alt={props.card_title} />
             <div className="card-body">
-                <h5 className="card-title">{webDevProjects.card_title}</h5>
+                <h5 className="card-title">{props.card_title}</h5>
                 <p className="card-text">
-                    {webDevProjects.card_text}
-                    <ul className="lang">
-                        {webDevProjects.map(projects =>
+                    {props.card_text}
+                    {/* <ul className="lang">
+                        {props.map(projects =>
                             <li key={projects.id}>{projects.technologies}</li>)}
-                    </ul>
+                    </ul> */}
                 </p>
-                <Link to={webDevProjects.project_repo} className="btn" target="_blank">Project Repo</Link>
-                <Link to={webDevProjects.deployed_project} className="deploy btn" target="_blank">Deployed Project</Link>
+                <a href={props.project_repo} className="btn" rel="noopener noreferrer" target="_blank">Project Repo</a><br></br>
+                <a href={props.deployed_project} className="deploy btn" rel="noopener noreferrer" target="_blank">Deployed Project</a>
             </div>
         </div>
     )

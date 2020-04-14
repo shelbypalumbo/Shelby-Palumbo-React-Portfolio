@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "image": "../../images/emplyeeDirectory.png",
+        "image": "./images/emplyeeDirectory.png",
         "card_title": "Employee Directory",
         "card_text": "A React employee directory application allowing users to view all employees upon page load, sort employees by last name, or age, in ascending and descending order, as well as search for employees by name.",
         "technolgies": [
@@ -19,7 +19,7 @@
     },
     {
         "id": 2,
-        "image": "../../images/budgetTracker.png",
+        "image": "./images/budgetTracker.png",
         "card_title": "Budget Tracker",
         "card_text": "A budget tracking application available for online and offline use!",
         "technolgies": [
@@ -37,7 +37,7 @@
     },
     {
         "id": 3,
-        "image": "../../images/fitnessApplication.png",
+        "image": "./images/fitnessApplication.png",
         "card_title": "Fitness Tracker",
         "card_text": "A workout logging application that allows users to create, add to, view, and track daily workout routines.",
         "technolgies": [
@@ -56,7 +56,7 @@
     },
     {
         "id": 4,
-        "image": "../../images/burgerApplication.png",
+        "image": "./images/burgerApplication.png",
         "card_title": "Eat A Burger!",
         "card_text": "A burger logging application implementing the use of a MVC design pattern using MySQL, Node, Express, Handlebars and an ORM.",
         "technolgies": [
@@ -75,7 +75,7 @@
     },
     {
         "id": 5,
-        "image": "../../images/bookWorm.png",
+        "image": "./images/bookWorm.png",
         "card_title": "Book Worm",
         "card_text": "A book search, save, and publishing application using the Google Books API and EPUB-GEN npm.",
         "technolgies": [
@@ -92,7 +92,7 @@
     },
     {
         "id": 6,
-        "image": "../../images/crimeData.png",
+        "image": "./images/crimeData.png",
         "card_title": "Heat Wave Crime Data",
         "card_text": "An application that allows a user to view the homicide rate and safety level of a states capital city.",
         "technolgies": [

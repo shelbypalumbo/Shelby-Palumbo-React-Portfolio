@@ -1,38 +1,38 @@
 import React from "react";
+import Container from "../components/Container";
 import Row from "../components/Row";
 import Col from "../components/Col";
-import { Link } from "react-router-dom";
 import Headshot from "../images/headshot2.png";
-import Cats from "../images/gitHub.png";
+import Cats from "../images/tableCats.jpg";
 import Github from "../images/gitHub.png";
 
 function About() {
     return (
-        <div>
+        <Container>
             <h2>About Me</h2>
             <hr></hr>
             <Row>
-                <Col className="col-lg-4 col-md-12">
+                <Col size="col-lg-4 col-md-12">
                     <Row>
-                        <img src={Headshot} alt="headshot" />
+                        <img src={Headshot} className="bio-imgs" alt="headshot" />
                     </Row>
                     <Row>
-                        <p> &nbsp;&nbsp; &nbsp;&nbsp;Hello, my name is Shelby Palumbo and I am an aspiring Full Stack Developer!
-                <p><i className="fab fa-linkedin"></i><Link to="https://www.linkedin.com/in/shelby-palumbo-a96748196/"
-                                target="_blank"> Connect with me on LinkedIn!</Link></p>
-                            <p><Link to="https://github.com/shelbypalumbo" target="_blank">
-                                <img alt="github" src={Github} width="10%" /> Check out my Github!</Link></p>
+                        <p> Hello, my name is Shelby Palumbo and I am an aspiring Full Stack Developer!
+                        <p><i className="fab fa-linkedin"></i><a href="https://www.linkedin.com/in/shelby-palumbo-a96748196/"
+                                rel="noopener noreferrer" target="_blank"> Connect with me on LinkedIn!</a></p>
+                            <p><a href="https://github.com/shelbypalumbo" rel="noopener noreferrer" target="_blank">
+                                <img alt="github" src={Github} width="10%" /> Check out my Github!</a></p>
                         </p>
                     </Row>
                 </Col>
 
 
-                <Col class="col-lg-8 col-md-12">
+                <Col size="col-lg-7 col-md-12">
                     <p>
-                        <img className="cat-imgs" src={Cats} alt="Loui and Mina" align="right" />
+                        <img className="cat-imgs" src={Cats} alt="Loui and Mina" />
                         &nbsp;&nbsp; &nbsp;&nbsp; Since 2014, I have worked in the professional audio industry
                         as a Diamond Series Microphone Technician for
-              <Link to="https://www.telefunken-elektroakustik.com/" target="_blank">Telefunken Elektroakustik.</Link>
+              <a href="https://www.telefunken-elektroakustik.com/" rel="noopener noreferrer" target="_blank">Telefunken Elektroakustik.</a>
                         While I have enjoyed my time as a technician, I started to feel unsatisfied and understimulated with my
                         work.
             </p>
@@ -52,7 +52,7 @@ function About() {
             </p>
                 </Col>
             </Row>
-        </div>
+        </Container>
     );
 }
 
