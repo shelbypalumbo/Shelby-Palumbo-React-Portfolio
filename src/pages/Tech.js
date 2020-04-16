@@ -3,9 +3,7 @@ import React from "react";
 // import Col from "../components/Col";
 
 function Tech() {
-    return (
-        <div></div>
-    );
+  return <div></div>;
 }
 
 export default Tech;
