@@ -7,10 +7,7 @@ import webDevProjects from "../webDevProjects.json";
 
 const style = {
   containerStyle: {
-    height: 500
-  },
-  cardMargin: {
-    marginBottom: 10
+    height: "600px"
   }
 };
 
@@ -22,7 +19,7 @@ class Design extends Component {
 
   render() {
     return (
-      <Container style={style.containerStyle} className="overflow-auto">
+      <Container style={style.containerStyle}>
         <h2>Web Development Projects</h2>
         <hr />
         <Row>
@@ -42,7 +39,7 @@ class Design extends Component {
         {/* {this.state.webDevProjects.map(images => ( */}
         {/* <img src={require("../images/employeeDirectory.png")} /> */}
         {/* ))} */}
-        <Row style={style.cardMargin}>
+        <Row>
           {this.state.webDevProjects.map(projects => (
             <Col size="md-4 sm-12">
               <Card

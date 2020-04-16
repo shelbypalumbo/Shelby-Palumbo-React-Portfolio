@@ -76,6 +76,10 @@ function About() {
             and lifelong learning exciting!
           </p>
           <p>
+            &nbsp;&nbsp; &nbsp;&nbsp;I now have experience with React, MongoDB,
+            MySql, Node.js, Express.js, JavaScript, HTML, and CSS.
+          </p>
+          <p>
             {" "}
             &nbsp;&nbsp; &nbsp;&nbsp;These days you'll find me locked in on a
             computer screen, drinking coffee, and spending time with my two

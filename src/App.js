@@ -10,7 +10,7 @@ import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
 import Wrapper from "./components/Wrapper";
 import Jumbotron from "./components/Jumbotron";
-import NoMatch from "./pages/NoMatch";
+// import NoMatch from "./pages/NoMatch";
 
 function App() {
   return (
