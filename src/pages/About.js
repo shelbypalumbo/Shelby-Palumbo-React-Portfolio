@@ -5,8 +5,14 @@ import Col from "../components/Col";
 import Headshot from "../images/headshot2.png";
 import Cats from "../images/tableCats.jpg";
 import Github from "../images/gitHub.png";
+import { green } from "color-name";
 
 function About() {
+  const style = {
+    fontColor: {
+      color: "green"
+    }
+  };
   return (
     <Container>
       <h2>About Me</h2>
@@ -48,7 +54,6 @@ function About() {
 
         <Col size="lg-7 md-12">
           <p>
-            <img className="cat-imgs" src={Cats} alt="Loui and Mina" />
             &nbsp;&nbsp; &nbsp;&nbsp; Since 2014, I have worked in the
             professional audio industry as a Diamond Series Microphone
             Technician for
@@ -68,6 +73,7 @@ function About() {
             was immediately drawn back in. I started classes through Coursera,
             watching tutorials, and then I stumbled upon the UCONN coding
             bootcamp!
+            <img className="cat-imgs" src={Cats} alt="Loui and Mina" />
           </p>
           <p>
             &nbsp;&nbsp; &nbsp;&nbsp;This program has shown me that web
@@ -76,8 +82,11 @@ function About() {
             and lifelong learning exciting!
           </p>
           <p>
-            &nbsp;&nbsp; &nbsp;&nbsp;I now have experience with React, MongoDB,
-            MySql, Node.js, Express.js, JavaScript, HTML, and CSS.
+            &nbsp;&nbsp; &nbsp;&nbsp;I now have experience with{" "}
+            <strong style={style.fontColor}>
+              React, MongoDB, MySql, Node.js, Express.js, JavaScript, HTML, and
+              CSS.
+            </strong>
           </p>
           <p>
             {" "}

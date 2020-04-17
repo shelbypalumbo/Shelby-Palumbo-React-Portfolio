@@ -1,45 +1,49 @@
 .wrapper {
-    font-family: 'Questrial', sans-serif;
-    display: flex;
-    background-image: url("../../images/fern.jpg");
-    background-size: cover;
-    background-repeat: no-repeat;
+  font-family: "Questrial", sans-serif;
+  display: flex;
+  background-image: url("../../images/fern.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 
 a {
-    color: #4e4d4d;
+  color: #4e4d4d;
 }
 
 a:focus {
-    opacity: 50%;
+  opacity: 50%;
 }
 
 .btn {
-    background-color: #f5e675;
-    color: black;
+  background-color: #f5e675;
+  color: black;
 }
 
 a:hover {
-    opacity: 40%;
+  opacity: 40%;
 }
 
 p {
-    font-size: 13pt;
+  font-size: 13pt;
 }
 
 .bio-imgs {
-    margin: 10px;
-    height: 300px;
-    width: auto;
-    border-radius: 30px;
-    margin-bottom: 10px;
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  height: 300px;
+  width: auto;
+  border-radius: 30px;
+  margin-bottom: 10px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
 .cat-imgs {
-    float: right;
-    width: 300px;
-    border-radius: 30px;
-    margin: 0px 10px 10px 10px;
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  float: right;
+  width: 300px;
+  border-radius: 30px;
+  margin: 0px 10px 10px 10px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.gitImg {
+  margin: 10px;
+  box-shadow: 2px 3px 3px gray;
 }

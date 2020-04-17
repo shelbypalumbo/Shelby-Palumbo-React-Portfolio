@@ -28,21 +28,20 @@ function Contact() {
             rel="noopener noreferrer"
             target="_blank"
           >
-            <img alt="github" src={Github} width="30%" />
+            <img className="gitImg" alt="github" src={Github} width="30%" />
           </a>
           <div
             className="LI-profile-badge"
             data-version="v1"
             data-size="small"
             data-locale="en_US"
-            data-type="vertical"
+            data-type="horizontal"
             data-theme="dark"
             data-vanity="shelby-palumbo-a96748196"
           >
             <a
               className="LI-simple-link"
               rel="noopener noreferrer"
-              target="_blank"
               href="https://www.linkedin.com/in/shelby-palumbo-a96748196?trk=profile-badge"
             >
               Shelby Palumbo

@@ -20,12 +20,16 @@ function App() {
         <Navbar />
         <Wrapper>
           {/* <Route exact path="/cover" component={Cover} /> */}
-          <Route exact path="/" component={About} />
-          <Route path="/About" component={About} />
-          <Route path="/Design" component={Design} />
-          <Route path="/Tech" component={Tech} />
-          <Route path="/Resume" component={Resume} />
-          <Route path="/Contact" component={Contact} />
+          <Route
+            exact
+            path="/shelbypalumbo/Shelby-Palumbo-React-Portfolio"
+            component={About}
+          />
+          <Route exact path="/about" component={About} />
+          <Route exact path="/design" component={Design} />
+          <Route exact path="/tech" component={Tech} />
+          <Route exact path="/resume" component={Resume} />
+          <Route exact path="/contact" component={Contact} />
           {/* <Route component={NoMatch} /> */}
         </Wrapper>
         <Footer />
