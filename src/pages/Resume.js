@@ -6,6 +6,9 @@ import Row from "../components/Row";
 import Resumepdf from "../images/Shelby_Palumbo_Resume.pdf";
 import createReactClass from "create-react-class";
 import Navbar from "../components/Navbar";
+import Footer from "../components/Footer";
+import Wrapper from "../components/Wrapper";
+import Jumbotron from "../components/Jumbotron";
 
 function SPResume() {
   const style = {
@@ -41,18 +44,24 @@ function SPResume() {
     }
   });
   return (
-    <Container>
-      <Row>
-        <Col size="lg-2 sm-12">
-          <Navbar />
-        </Col>
-        <Col size="lg-10 sm-12">
-          <h2>My Resume</h2>
-          <hr />
-          <Resume />
-        </Col>
-      </Row>
-    </Container>
+    <div>
+      <Jumbotron />
+      <Wrapper>
+        <Container>
+          <Row>
+            <Col size="lg-2 sm-12">
+              <Navbar />
+            </Col>
+            <Col size="lg-10 sm-12">
+              <h2>My Resume</h2>
+              <hr />
+              <Resume />
+            </Col>
+          </Row>
+        </Container>
+      </Wrapper>
+      <Footer />
+    </div>
   );
 }
 
