@@ -7,7 +7,7 @@ function Card(props) {
   return (
     <div key={props.id} className="card">
       <div className="card-body">
-        <h4 className="card-title">{props.card_title}</h4>
+        <h5 className="card-title">{props.card_title}</h5>
         <hr></hr>
         <img
           key={props.id}

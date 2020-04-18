@@ -5,6 +5,7 @@ import Col from "../components/Col";
 import me_lester from "../images/techImages/me&lester.jpg";
 import techImages from "../techImages.js";
 import Img from "../components/Img";
+import Navbar from "../components/Navbar";
 
 class Tech extends Component {
   state = {
@@ -14,20 +15,19 @@ class Tech extends Component {
   render() {
     return (
       <Container>
-        <h2 className="text-left">My Time as a Microphone Technician</h2>
-        <hr />
         <Row>
-          <Col size="sm-12 lg-9">
+          <Col size="lg-2 sm-12">
+            <Navbar />
+          </Col>
+          <Col size="lg-10 sm-12">
+            <h2 className="text-left">My Time as a Microphone Technician</h2>
+            <hr />
+
             <div className="media">
-              <img
-                src={me_lester}
-                className="align-self-start mr-3 lester shadow"
-                alt="me and lester pup"
-              />
               <div className="media-body">
                 <p>
-                  Since 2014, I have worked in the professional audio industry
-                  as a Diamond Series Microphone Technician for{" "}
+                  &nbsp; Since 2014, I have worked in the professional audio
+                  industry as a Diamond Series Microphone Technician for{" "}
                   <a
                     rel="noopener noreferrer"
                     href="https://www.telefunken-elektroakustik.com/"
@@ -43,6 +43,11 @@ class Tech extends Component {
                   micrometers, etc.{" "}
                 </p>
               </div>
+              <img
+                src={me_lester}
+                className="align-self-start mr-3 lester shadow"
+                alt="me and lester pup"
+              />
             </div>
           </Col>
         </Row>

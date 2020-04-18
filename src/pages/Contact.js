@@ -3,7 +3,7 @@ import Row from "../components/Row";
 import Col from "../components/Col";
 import Form from "../components/Form";
 import Container from "../components/Container";
-import Github from "../images/gitHub.png";
+import Navbar from "../components/Navbar";
 
 function Contact() {
   const style = {
@@ -13,23 +13,33 @@ function Contact() {
   };
   return (
     <Container>
-      <h2>Contact Info</h2>
-      <hr />
       <Row>
-        <Col size="lg-8 md-12">
+        <Col size="lg-2 sm-12">
+          <Navbar />
+        </Col>
+
+        <Col size="lg-6 sm-12">
+          <h2>Contact Info</h2>
+          <hr />
           <Form />
         </Col>
-        <Col size="lg-4 md-12" style={style.textstyle}>
+        <Col size="lg-3 md-12" style={style.textstyle}>
           <h5>Connect with me:</h5>
+          <hr />
           <i className="fas fa-mobile-alt"></i> (203)690-0030 <br />
+          <br />
           <i className="far fa-envelope"></i> shelbypalumbo94@gmail.com <br />
+          <br />
           <a
             href="https://github.com/shelbypalumbo"
             rel="noopener noreferrer"
             target="_blank"
           >
-            <img className="gitImg" alt="github" src={Github} width="30%" />
+            <i className="fab fa-github fa-lg white-text mr-md-3 mr-3 fa-2x" />
+            My Github
           </a>
+          <br />
+          <br />
           <div
             className="LI-profile-badge"
             data-version="v1"

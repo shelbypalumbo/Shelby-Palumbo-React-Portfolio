@@ -4,55 +4,33 @@ import Row from "../components/Row";
 import Col from "../components/Col";
 import Headshot from "../images/headshot2.png";
 import Cats from "../images/tableCats.jpg";
-import Github from "../images/gitHub.png";
-import { green } from "color-name";
+import Navbar from "../components/Navbar";
 
 function About() {
   const style = {
     fontColor: {
-      color: "green"
+      color: "#a79b43"
     }
   };
   return (
     <Container>
-      <h2>About Me</h2>
-      <hr />
       <Row>
-        <Col size="lg-4 md-12">
-          <Row>
+        <Col size="lg-2 sm-12">
+          <Navbar />
+        </Col>
+        <Col size="9">
+          <Col size="lg-12">
+            <h2>About Me</h2>
+            <hr />
             <img src={Headshot} className="bio-imgs" alt="headshot" />
-          </Row>
-          <Row>
+
             <p>
               {" "}
               Hello, my name is Shelby Palumbo and I am an aspiring Full Stack
               Developer!
-              <p>
-                <i className="fab fa-linkedin"></i>
-                <a
-                  href="https://www.linkedin.com/in/shelby-palumbo-a96748196/"
-                  rel="noopener noreferrer"
-                  target="_blank"
-                >
-                  {" "}
-                  Connect with me on LinkedIn!
-                </a>
-              </p>
-              <p>
-                <a
-                  href="https://github.com/shelbypalumbo"
-                  rel="noopener noreferrer"
-                  target="_blank"
-                >
-                  <img alt="github" src={Github} width="10%" /> Check out my
-                  Github!
-                </a>
-              </p>
             </p>
-          </Row>
-        </Col>
+          </Col>
 
-        <Col size="lg-7 md-12">
           <p>
             &nbsp;&nbsp; &nbsp;&nbsp; Since 2014, I have worked in the
             professional audio industry as a Diamond Series Microphone

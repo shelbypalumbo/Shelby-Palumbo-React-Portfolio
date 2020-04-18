@@ -8,7 +8,6 @@ function Jumbotron(props) {
         <h1 className="display-4">
           Shelby Palumbo <i className="fas fa-laptop-code"></i>
         </h1>
-        <p className="lead"></p>
       </div>
     </div>
   );

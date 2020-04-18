@@ -1,12 +1,13 @@
 .t-funk {
   height: 300px;
+  width: 330px;
   margin: 10px;
   border-radius: 10px;
-  border: 1px solid rgb(49, 104, 49);
+  border: 1px solid #a79b43;
 }
 
 .lester {
   width: 20%;
   border-radius: 10px;
-  border: 1px solid rgb(49, 104, 49);
+  border: 1px solid #a79b43;
 }

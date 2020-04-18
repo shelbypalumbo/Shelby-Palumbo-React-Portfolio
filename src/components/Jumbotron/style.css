@@ -1,10 +1,14 @@
 .jumbotron {
-    background-image: url("../../images/fern_2.jpg");
-    background-color: transparent;
-    text-align: center;
-    color: rgb(248, 248, 180);
-    font-family: 'Questrial', sans-serif;
-    text-shadow: 2px 1px #000000;
-    background-size: cover;
-    background-repeat: no-repeat;
+  background-image: url("../../images/plantGreen.jpg");
+  background-image: cover;
+  background-image: no-repeat;
+  background-color: transparent;
+  border-bottom: 5px solid rgb(133, 116, 19);
+  text-align: center;
+  text-decoration: bold;
+  color: white;
+  height: 300px;
+  font-family: "Questrial", sans-serif;
+  background-size: cover;
+  background-repeat: no-repeat;
 }

@@ -1,9 +1,11 @@
 import React from "react";
 import ReactDOM from "react-dom";
 import Container from "../components/Container";
-// import Row from "../components/Row";
+import Col from "../components/Col";
+import Row from "../components/Row";
 import Resumepdf from "../images/Shelby_Palumbo_Resume.pdf";
 import createReactClass from "create-react-class";
+import Navbar from "../components/Navbar";
 
 function SPResume() {
   const style = {
@@ -40,9 +42,16 @@ function SPResume() {
   });
   return (
     <Container>
-      <h2>My Resume</h2>
-      <hr />
-      <Resume />
+      <Row>
+        <Col size="lg-2 sm-12">
+          <Navbar />
+        </Col>
+        <Col size="lg-10 sm-12">
+          <h2>My Resume</h2>
+          <hr />
+          <Resume />
+        </Col>
+      </Row>
     </Container>
   );
 }

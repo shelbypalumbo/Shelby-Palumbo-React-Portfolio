@@ -6,7 +6,6 @@ import Design from "./pages/Design";
 import Tech from "./pages/Tech";
 import Resume from "./pages/Resume";
 import Contact from "./pages/Contact";
-import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
 import Wrapper from "./components/Wrapper";
 import Jumbotron from "./components/Jumbotron";
@@ -17,19 +16,22 @@ function App() {
     <Router>
       <div>
         <Jumbotron />
-        <Navbar />
         <Wrapper>
-          {/* <Route exact path="/cover" component={Cover} /> */}
+          {/* <Route
+            exact
+            path="/shelbypalumbo/Shelby-Palumbo-React-Portfolio"
+            component={Cover}
+          /> */}
           <Route
             exact
             path="/shelbypalumbo/Shelby-Palumbo-React-Portfolio"
             component={About}
           />
-          <Route exact path="/about" component={About} />
-          <Route exact path="/design" component={Design} />
-          <Route exact path="/tech" component={Tech} />
-          <Route exact path="/resume" component={Resume} />
-          <Route exact path="/contact" component={Contact} />
+          <Route exact path="/About" component={About} />
+          <Route exact path="/Design" component={Design} />
+          <Route exact path="/Tech" component={Tech} />
+          <Route exact path="/Resume" component={Resume} />
+          <Route exact path="/Contact" component={Contact} />
           {/* <Route component={NoMatch} /> */}
         </Wrapper>
         <Footer />
