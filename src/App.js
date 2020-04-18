@@ -12,11 +12,31 @@ function App() {
     <Router>
       <div>
         <Route exact path="/Shelby-Palumbo-React-Portfolio" component={Cover} />
-        <Route exact path="/About" component={About} />
-        <Route exact path="/Design" component={Design} />
-        <Route exact path="/Tech" component={Tech} />
-        <Route exact path="/Resume" component={Resume} />
-        <Route exact path="/Contact" component={Contact} />
+        <Route
+          exact
+          path="/Shelby-Palumbo-React-Portfolio/About"
+          component={About}
+        />
+        <Route
+          exact
+          path="/Shelby-Palumbo-React-Portfolio/Design"
+          component={Design}
+        />
+        <Route
+          exact
+          path="/Shelby-Palumbo-React-Portfolio/Tech"
+          component={Tech}
+        />
+        <Route
+          exact
+          path="/Shelby-Palumbo-React-Portfolio/Resume"
+          component={Resume}
+        />
+        <Route
+          exact
+          path="/Shelby-Palumbo-React-Portfolio/Contact"
+          component={Contact}
+        />
         {/* <Route component={NoMatch} /> */}
       </div>
     </Router>

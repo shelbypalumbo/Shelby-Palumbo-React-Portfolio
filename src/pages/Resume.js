@@ -18,15 +18,15 @@ function SPResume() {
     }
   };
   var Resume = createReactClass({
-    render: function () {
+    render() {
       return (
         <iframe style={style.resumeStyle} title="resume" src={Resumepdf} />
       );
     },
-    componentDidMount: function () {
+    componentDidMount() {
       this.renderFrameContents();
     },
-    renderFrameContents: function () {
+    renderFrameContents() {
       var doc = ReactDOM.findDOMNode(this).contentDocument;
       if (doc.readyState === "complete") {
         ReactDOM.render(this.props.children, doc.body);
@@ -34,10 +34,10 @@ function SPResume() {
         setTimeout(this.renderFrameContents, 0);
       }
     },
-    componentDidUpdate: function () {
+    componentDidUpdate() {
       this.renderFrameContents();
     },
-    componentWillUnmount: function () {
+    componentWillUnmount() {
       React.unmountComponentAtNode(
         ReactDOM.findDOMNode(this).contentDocument.body
       );
