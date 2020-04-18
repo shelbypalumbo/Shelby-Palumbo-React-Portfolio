@@ -11,11 +11,7 @@ function App() {
   return (
     <Router>
       <div>
-        <Route
-          exact
-          path="/shelbypalumbo/Shelby-Palumbo-React-Portfolio"
-          component={Cover}
-        />
+        <Route exact path="/Shelby-Palumbo-React-Portfolio" component={Cover} />
         <Route exact path="/About" component={About} />
         <Route exact path="/Design" component={Design} />
         <Route exact path="/Tech" component={Tech} />
