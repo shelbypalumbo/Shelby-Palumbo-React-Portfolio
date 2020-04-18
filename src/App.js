@@ -11,7 +11,7 @@ function App() {
   return (
     <Router>
       <div>
-        <Route exact path="/" component={Cover} />
+        <Route exact path="/Shelby-Palumbo-React-Portfolio" component={Cover} />
         <Route path="/About" component={About} />
         <Route path="/Design" component={Design} />
         <Route path="/Tech" component={Tech} />
