@@ -19,7 +19,7 @@ function Cover() {
           <h3>Web Developer </h3>
           <h6>Check out my work!</h6>
 
-          <a href="/about" class="coverBtn">
+          <a href="/About" class="coverBtn">
             Enter
           </a>
         </div>

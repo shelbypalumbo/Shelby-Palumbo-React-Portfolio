@@ -25,7 +25,7 @@ function About() {
               <Navbar />
             </Col>
             <Col size="9">
-              <Col size="lg-12">
+              <Col size="12">
                 <h2>About Me</h2>
                 <hr />
                 <img src={Headshot} className="bio-imgs" alt="headshot" />

@@ -17,7 +17,6 @@ function App() {
         <Route path="/Tech" component={Tech} />
         <Route path="/Resume" component={Resume} />
         <Route path="/Contact" component={Contact} />
-        {/* <Route component={NoMatch} /> */}
       </div>
     </Router>
   );
