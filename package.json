@@ -1,5 +1,5 @@
 {
-  "homepage": "http://shelbypalumbo.github.io/Shelby-Palumbo-React-Portfolio",
+  "homepage": "https://shelbypalumbo.github.io/Shelby-Palumbo-React-Portfolio",
   "name": "Shelby-Palumbo-React-Portfolio",
   "version": "0.1.0",
   "private": true,
@@ -10,7 +10,6 @@
     "bootstrap": "^4.4.1",
     "create-react-class": "^15.6.3",
     "react": "^16.13.1",
-    "react-bootstrap": "^1.0.0",
     "react-dom": "^16.13.1",
     "react-pdf": "^4.1.0",
     "react-router-dom": "^5.1.2",
