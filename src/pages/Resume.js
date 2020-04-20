@@ -38,7 +38,7 @@ function SPResume() {
       this.renderFrameContents();
     },
     componentWillUnmount() {
-      React.unmountComponentAtNode(
+      ReactDOM.unmountComponentAtNode(
         ReactDOM.findDOMNode(this).contentDocument.body
       );
     }

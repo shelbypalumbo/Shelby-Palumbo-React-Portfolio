@@ -1,41 +1,41 @@
 import React from "react";
+import { Link } from "react-router-dom";
 import "./style.css";
 
 function Navbar() {
   return (
     <div>
       <nav className="nav flex-column">
-        <a className="nav-link active" href="About">
+        <Link className="nav-link" to="/About">
           About
-        </a>
+        </Link>
         <li className="nav-item dropdown">
-          <a
+          <Link
             className="nav-link dropdown-toggle"
             data-toggle="dropdown"
-            href="/"
+            to="#"
             role="button"
             rel="noopener noreferrer"
             aria-haspopup="true"
             aria-expanded="false"
           >
             Portfolio
-          </a>
+          </Link>
           <div className="dropdown-menu">
-            <a className="dropdown-item" href="Design">
+            <Link className="dropdown-item" to="/Design">
               Web Development Projects
-            </a>
-            <a className="dropdown-item" href="Tech">
+            </Link>
+            <Link className="dropdown-item" to="/Tech">
               Technician Experience
-            </a>
-            <a className="dropdown-item" href="Resume">
+            </Link>
+            <Link className="dropdown-item" to="/Resume">
               Resume
-            </a>
+            </Link>
           </div>
         </li>
-
-        <a className="nav-link" href="Contact">
+        <Link className="nav-link" to="/Contact">
           Contact
-        </a>
+        </Link>
       </nav>
     </div>
   );

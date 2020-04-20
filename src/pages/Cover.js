@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "react-router-dom";
 import Background from "../images/cover.jpg";
 
 function Cover() {
@@ -19,9 +20,9 @@ function Cover() {
           <h3>Web Developer </h3>
           <h6>Check out my work!</h6>
 
-          <a href="/About" class="coverBtn">
+          <Link to="/About" className="coverBtn">
             Enter
-          </a>
+          </Link>
         </div>
       </div>
     </div>
