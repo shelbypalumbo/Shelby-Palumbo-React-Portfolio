@@ -46,7 +46,7 @@ function About() {
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  Telefunken Elektroakustik.
+                  &nbsp; Telefunken Elektroakustik.
                 </a>
                 While I have enjoyed my time as a technician, I started to feel
                 unsatisfied and understimulated with my work.
