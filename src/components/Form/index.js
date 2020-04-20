@@ -6,7 +6,7 @@ function Form() {
     <form
       action="mailto:shelbypalumbo94@gmail.com"
       method="post"
-      enctype="text/plain"
+      type="text/plain"
     >
       Name:<br></br>
       <input type="text" className="name" name="name" />

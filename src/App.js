@@ -1,5 +1,5 @@
 import React from "react";
-import { BrowserRouter as Router, Route } from "react-router-dom";
+import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 import Cover from "./pages/Cover";
 import About from "./pages/About";
 import Design from "./pages/Design";
@@ -8,9 +8,10 @@ import Resume from "./pages/Resume";
 import Contact from "./pages/Contact";
 
 function App() {
+  console.log("hello");
   return (
     <Router>
-      <div>
+      <Switch>
         <Route exact path="/Shelby-Palumbo-React-Portfolio" component={Cover} />
         <Route path="/Shelby-Palumbo-React-Portfolio/About" component={About} />
         <Route
@@ -26,7 +27,7 @@ function App() {
           path="/Shelby-Palumbo-React-Portfolio/Contact"
           component={Contact}
         />
-      </div>
+      </Switch>
     </Router>
   );
 }
