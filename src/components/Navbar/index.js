@@ -5,7 +5,7 @@ function Navbar() {
   return (
     <div>
       <nav className="nav flex-column">
-        <a className="nav-link active" href="/About">
+        <a className="nav-link active" href="About">
           About
         </a>
         <li className="nav-item dropdown">
