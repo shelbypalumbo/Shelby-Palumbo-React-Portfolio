@@ -13,11 +13,11 @@ function App() {
     <Router>
       <Switch>
         <Route exact path="/" component={Cover} />
-        <Route path="/About" component={About} />
-        <Route path="/Design" component={Design} />
-        <Route path="/Tech" component={Tech} />
-        <Route path="/Resume" component={Resume} />
-        <Route path="/Contact" component={Contact} />
+        <Route exact path="/About" component={About} />
+        <Route exact path="/Design" component={Design} />
+        <Route exact path="/Tech" component={Tech} />
+        <Route exact path="/Resume" component={Resume} />
+        <Route exact path="/Contact" component={Contact} />
       </Switch>
     </Router>
   );
