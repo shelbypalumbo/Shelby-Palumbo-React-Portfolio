@@ -12,7 +12,7 @@ function App() {
   return (
     <Router>
       <Switch>
-        <Route exact path="/Shelby-Palumbo-React-Portfolio" component={Cover} />
+        <Route exact path="/Shelby-Palumbo-React-Portfolio" component={About} />
         <Route path="/Shelby-Palumbo-React-Portfolio/About" component={About} />
         <Route
           path="/Shelby-Palumbo-React-Portfolio/Design"
