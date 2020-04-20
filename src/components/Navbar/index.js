@@ -15,7 +15,6 @@ function Navbar() {
             data-toggle="dropdown"
             to="#"
             role="button"
-            rel="noopener noreferrer"
             aria-haspopup="true"
             aria-expanded="false"
           >

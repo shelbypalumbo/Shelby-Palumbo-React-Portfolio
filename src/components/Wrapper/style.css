@@ -11,12 +11,12 @@ a {
 }
 
 .btn {
-  background-color: #f8f2c4;
+  background-color: #f1eab0;
   color: black;
 }
 
-a:hover {
-  opacity: 30%;
+.btn:hover {
+  background-color: rgb(207, 230, 227);
 }
 
 p {
@@ -36,7 +36,7 @@ p {
   border-radius: 10px;
   float: right;
   width: 300px;
-  margin: 10px;
+  margin: 10px 0px 0px 10px;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
@@ -46,6 +46,10 @@ p {
   font-family: "Questrial", sans-serif;
 }
 
+a:hover {
+  opacity: 70%;
+  color: rgb(106, 84, 204);
+}
 .coverBtn,
 a:hover {
   text-decoration: none;

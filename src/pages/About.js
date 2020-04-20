@@ -24,18 +24,15 @@ function About() {
             <Col size="lg-2 sm-12">
               <Navbar />
             </Col>
-            <Col size="9">
-              <Col size="12">
-                <h2>About Me</h2>
-                <hr />
-                <img src={Headshot} className="bio-imgs" alt="headshot" />
+            <Col size="lg-10 sm-12">
+              <h2>About Me</h2>
+              <hr />
 
-                <p>
-                  {" "}
-                  Hello, my name is Shelby Palumbo and I am an aspiring Full
-                  Stack Developer!
-                </p>
-              </Col>
+              <p>
+                <img src={Headshot} className="bio-imgs" alt="headshot" />
+                &nbsp;&nbsp; &nbsp;&nbsp; Hello, my name is Shelby Palumbo and I
+                am an aspiring Full Stack Developer!
+              </p>
 
               <p>
                 &nbsp;&nbsp; &nbsp;&nbsp; Since 2014, I have worked in the
@@ -48,20 +45,21 @@ function About() {
                 >
                   &nbsp; Telefunken Elektroakustik.
                 </a>
-                While I have enjoyed my time as a technician, I started to feel
-                unsatisfied and understimulated with my work.
+                &nbsp; While I have enjoyed my time as a technician, I started
+                to feel unsatisfied and understimulated with my work.
               </p>
               <p>
                 &nbsp;&nbsp; &nbsp;&nbsp;About a year ago, I decided to take a
                 look back on some of my old web development projects from
                 college and I was immediately drawn back in. I started classes
+                <img className="cat-imgs" src={Cats} alt="Loui and Mina" />
                 through Coursera, watching tutorials, and then I stumbled upon
                 the UCONN coding bootcamp!
-                <img className="cat-imgs" src={Cats} alt="Loui and Mina" />
               </p>
+
               <p>
-                &nbsp;&nbsp; &nbsp;&nbsp;This program has shown me that web
-                development is the right path for me. While there is still so
+                &nbsp;&nbsp; &nbsp;&nbsp;This program has shown me that Web
+                Development is the right path for me. While there is still so
                 much left for me to learn, I find the challenge of an ever
                 changing feild and lifelong learning exciting!
               </p>
@@ -75,7 +73,7 @@ function About() {
               <p>
                 {" "}
                 &nbsp;&nbsp; &nbsp;&nbsp;These days you'll find me locked in on
-                a computer screen, drinking coffee, and spending time with my
+                a computer screen with a cup of coffee, or spending time with my
                 two cats, Mina and Loui.
               </p>
             </Col>
