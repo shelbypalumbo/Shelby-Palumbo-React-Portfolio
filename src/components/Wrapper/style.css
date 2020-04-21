@@ -47,7 +47,7 @@ p {
 }
 
 a:hover {
-  /* opacity: 70%; */
+  opacity: 0.5;
   color: rgb(117, 97, 207);
 }
 .coverBtn,
