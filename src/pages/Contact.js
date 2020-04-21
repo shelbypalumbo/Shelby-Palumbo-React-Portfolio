@@ -29,7 +29,7 @@ function Contact() {
               <hr />
               <Form />
             </Col>
-            <Col size="lg-3 md-12" style={style.textstyle}>
+            <Col size="lg-3 sm-12" style={style.textstyle}>
               <h5>Connect with me:</h5>
               <hr />
               <i className="fas fa-mobile-alt"></i> (203)690-0030 <br />
