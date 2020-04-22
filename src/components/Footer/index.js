@@ -9,7 +9,7 @@ function Footer() {
           &#169; SLP 2020 <i className="fas fa-cat"></i> &nbsp; &nbsp; &nbsp;
           <a
             className="li-ic"
-            href="https://www.linkedin.com/in/shelby-palumbo-a96748196/"
+            href="https://www.linkedin.com/in/shelby-palumbo/"
             rel="noopener noreferrer"
             target="_blank"
           >

@@ -54,12 +54,12 @@ function Contact() {
                 data-locale="en_US"
                 data-type="horizontal"
                 data-theme="dark"
-                data-vanity="shelby-palumbo-a96748196"
+                data-vanity="shelby-palumbo"
               >
                 <a
                   className="LI-simple-link"
                   rel="noopener noreferrer"
-                  href="https://www.linkedin.com/in/shelby-palumbo-a96748196?trk=profile-badge"
+                  href="https://www.linkedin.com/in/shelby-palumbo/"
                 >
                   Shelby Palumbo
                 </a>
