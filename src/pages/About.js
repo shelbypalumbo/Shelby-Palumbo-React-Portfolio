@@ -31,7 +31,7 @@ function About() {
               <p>
                 <img src={Headshot} className="bio-imgs" alt="headshot" />
                 &nbsp;&nbsp; &nbsp;&nbsp; Hello, my name is Shelby Palumbo and I
-                am an aspiring Full Stack Developer!
+                am a Web Developer.
               </p>
 
               <p>
@@ -45,8 +45,6 @@ function About() {
                 >
                   &nbsp; Telefunken Elektroakustik.
                 </a>
-                &nbsp; While I have enjoyed my time as a technician, I started
-                to feel unsatisfied and understimulated with my work.
               </p>
               <p>
                 &nbsp;&nbsp; &nbsp;&nbsp;About a year ago, I decided to take a
@@ -59,9 +57,8 @@ function About() {
 
               <p>
                 &nbsp;&nbsp; &nbsp;&nbsp;This program has shown me that Web
-                Development is the right path for me. While there is still so
-                much left for me to learn, I find the challenge of an ever
-                changing field and lifelong learning exciting.
+                Development is the right path for me. I find the challenge of an
+                ever changing field and lifelong learning exciting.
               </p>
               <p>
                 &nbsp;&nbsp; &nbsp;&nbsp;I now have experience with{" "}
