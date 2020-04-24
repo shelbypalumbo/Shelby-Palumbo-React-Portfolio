@@ -50,7 +50,7 @@ function Contact() {
               <div
                 className="LI-profile-badge"
                 data-version="v1"
-                data-size="small"
+                data-size="medium"
                 data-locale="en_US"
                 data-type="horizontal"
                 data-theme="dark"
@@ -58,10 +58,9 @@ function Contact() {
               >
                 <a
                   className="LI-simple-link"
-                  rel="noopener noreferrer"
-                  href="https://www.linkedin.com/in/shelby-palumbo/"
+                  href="https://www.linkedin.com/in/shelby-palumbo?trk=profile-badge"
                 >
-                  Shelby Palumbo
+                  <i className="fab fa-linkedin"></i> &nbsp; My LinkedIn
                 </a>
               </div>
             </Col>
