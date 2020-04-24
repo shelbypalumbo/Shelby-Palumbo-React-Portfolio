@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "84ab52d28f0c539564ed97198165d3b3",
+    "revision": "afea36436347ee99ddaf3664655f5fa8",
     "url": "/Shelby-Palumbo-React-Portfolio/index.html"
   },
   {
-    "revision": "464387fabc026b29a2c3",
+    "revision": "3a5cd1d897c21c82d150",
     "url": "/Shelby-Palumbo-React-Portfolio/static/css/main.66060253.chunk.css"
   },
   {
-    "revision": "ff54de9c2deaafffbe1e",
-    "url": "/Shelby-Palumbo-React-Portfolio/static/js/2.037b08b3.chunk.js"
+    "revision": "d0e2fa30c50147f99aa5",
+    "url": "/Shelby-Palumbo-React-Portfolio/static/js/2.3e927d15.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/Shelby-Palumbo-React-Portfolio/static/js/2.037b08b3.chunk.js.LICENSE.txt"
+    "url": "/Shelby-Palumbo-React-Portfolio/static/js/2.3e927d15.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "464387fabc026b29a2c3",
-    "url": "/Shelby-Palumbo-React-Portfolio/static/js/main.3cb3c4f4.chunk.js"
+    "revision": "3a5cd1d897c21c82d150",
+    "url": "/Shelby-Palumbo-React-Portfolio/static/js/main.40b98009.chunk.js"
   },
   {
     "revision": "4cdbcd27e842309ed4d2",
@@ -28,8 +28,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Shelby-Palumbo-React-Portfolio/static/media/251.ea23869d.jpg"
   },
   {
-    "revision": "67df7b35a24fb1942f0e9ce63c57650d",
-    "url": "/Shelby-Palumbo-React-Portfolio/static/media/Shelby_Palumbo_Resume.67df7b35.pdf"
+    "revision": "03d42677cb4496ed62a674798b240ece",
+    "url": "/Shelby-Palumbo-React-Portfolio/static/media/Shelby_Palumbo_Resume.03d42677.pdf"
   },
   {
     "revision": "18afcf91ad4feede95b86b33a5bac996",
@@ -70,6 +70,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "b83c821af367b6a4c0e4f63ad43ffdce",
     "url": "/Shelby-Palumbo-React-Portfolio/static/media/lap.b83c821a.jpg"
+  },
+  {
+    "revision": "2266407ad13272b4ca513c5853a730eb",
+    "url": "/Shelby-Palumbo-React-Portfolio/static/media/linkedinBadge.2266407a.png"
   },
   {
     "revision": "007b69d6c57e1ec0da2e9ef2d68b0024",

@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/Shelby-Palumbo-React-Portfolio/static/css/main.66060253.chunk.css",
-    "main.js": "/Shelby-Palumbo-React-Portfolio/static/js/main.3cb3c4f4.chunk.js",
-    "main.js.map": "/Shelby-Palumbo-React-Portfolio/static/js/main.3cb3c4f4.chunk.js.map",
+    "main.js": "/Shelby-Palumbo-React-Portfolio/static/js/main.40b98009.chunk.js",
+    "main.js.map": "/Shelby-Palumbo-React-Portfolio/static/js/main.40b98009.chunk.js.map",
     "runtime-main.js": "/Shelby-Palumbo-React-Portfolio/static/js/runtime-main.ae9f9ad1.js",
     "runtime-main.js.map": "/Shelby-Palumbo-React-Portfolio/static/js/runtime-main.ae9f9ad1.js.map",
-    "static/js/2.037b08b3.chunk.js": "/Shelby-Palumbo-React-Portfolio/static/js/2.037b08b3.chunk.js",
-    "static/js/2.037b08b3.chunk.js.map": "/Shelby-Palumbo-React-Portfolio/static/js/2.037b08b3.chunk.js.map",
+    "static/js/2.3e927d15.chunk.js": "/Shelby-Palumbo-React-Portfolio/static/js/2.3e927d15.chunk.js",
+    "static/js/2.3e927d15.chunk.js.map": "/Shelby-Palumbo-React-Portfolio/static/js/2.3e927d15.chunk.js.map",
     "index.html": "/Shelby-Palumbo-React-Portfolio/index.html",
-    "precache-manifest.8bfab19700772729c146596661fb1205.js": "/Shelby-Palumbo-React-Portfolio/precache-manifest.8bfab19700772729c146596661fb1205.js",
+    "precache-manifest.da8c51fa5c5099cb4a7fd78ac6c35e9e.js": "/Shelby-Palumbo-React-Portfolio/precache-manifest.da8c51fa5c5099cb4a7fd78ac6c35e9e.js",
     "service-worker.js": "/Shelby-Palumbo-React-Portfolio/service-worker.js",
     "static/css/main.66060253.chunk.css.map": "/Shelby-Palumbo-React-Portfolio/static/css/main.66060253.chunk.css.map",
-    "static/js/2.037b08b3.chunk.js.LICENSE.txt": "/Shelby-Palumbo-React-Portfolio/static/js/2.037b08b3.chunk.js.LICENSE.txt",
+    "static/js/2.3e927d15.chunk.js.LICENSE.txt": "/Shelby-Palumbo-React-Portfolio/static/js/2.3e927d15.chunk.js.LICENSE.txt",
     "static/media/251.jpg": "/Shelby-Palumbo-React-Portfolio/static/media/251.ea23869d.jpg",
-    "static/media/Shelby_Palumbo_Resume.pdf": "/Shelby-Palumbo-React-Portfolio/static/media/Shelby_Palumbo_Resume.67df7b35.pdf",
+    "static/media/Shelby_Palumbo_Resume.pdf": "/Shelby-Palumbo-React-Portfolio/static/media/Shelby_Palumbo_Resume.03d42677.pdf",
     "static/media/bookWorm.png": "/Shelby-Palumbo-React-Portfolio/static/media/bookWorm.18afcf91.png",
     "static/media/budgetTracker.png": "/Shelby-Palumbo-React-Portfolio/static/media/budgetTracker.782ab185.png",
     "static/media/burgerApplication.png": "/Shelby-Palumbo-React-Portfolio/static/media/burgerApplication.91a7f263.png",
@@ -24,6 +24,7 @@
     "static/media/fitnessApplication.png": "/Shelby-Palumbo-React-Portfolio/static/media/fitnessApplication.b75ff811.png",
     "static/media/headshot2.png": "/Shelby-Palumbo-React-Portfolio/static/media/headshot2.ce69675b.png",
     "static/media/lap.jpg": "/Shelby-Palumbo-React-Portfolio/static/media/lap.b83c821a.jpg",
+    "static/media/linkedinBadge.png": "/Shelby-Palumbo-React-Portfolio/static/media/linkedinBadge.2266407a.png",
     "static/media/me&lester.jpg": "/Shelby-Palumbo-React-Portfolio/static/media/me&lester.007b69d6.jpg",
     "static/media/me.png": "/Shelby-Palumbo-React-Portfolio/static/media/me.88f551fd.png",
     "static/media/mylar.jpg": "/Shelby-Palumbo-React-Portfolio/static/media/mylar.b2661a48.jpg",
@@ -36,8 +37,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.ae9f9ad1.js",
-    "static/js/2.037b08b3.chunk.js",
+    "static/js/2.3e927d15.chunk.js",
     "static/css/main.66060253.chunk.css",
-    "static/js/main.3cb3c4f4.chunk.js"
+    "static/js/main.40b98009.chunk.js"
   ]
 }
