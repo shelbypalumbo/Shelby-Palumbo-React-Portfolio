@@ -50,9 +50,9 @@ function About() {
                 &nbsp;&nbsp; &nbsp;&nbsp;About a year ago, I decided to take a
                 look back on some of my old web development projects from
                 college and I was immediately drawn back in. I started classes
-                <img className="cat-imgs" src={Cats} alt="Loui and Mina" />
                 &nbsp;through Coursera, watching tutorials, and then I stumbled
                 upon the UCONN coding bootcamp!
+                <img className="cat-imgs" src={Cats} alt="Loui and Mina" />
               </p>
 
               <p>
