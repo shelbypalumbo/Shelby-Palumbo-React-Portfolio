@@ -1,5 +1,28 @@
 export default [
   {
+    id: 0,
+    image: require("./images/Matrixio.png"),
+    card_title: "Matrixio",
+    card_text:
+      "Matrixio is a learning template building application originally produced, but not limited to, the use of Speech Pathologists. Matrixio users can create, update, and delete students along with creating and updating students’ uniquely built matrices.",
+    technologies: [
+      "Mongoose",
+      "MongoDB",
+      "Passport",
+      "Bcrypt",
+      "Express",
+      "Node.js",
+      "HTML",
+      "CSS",
+      "Javascript",
+      "Heroku",
+      "React-moment",
+      "React-bootstrap"
+    ],
+    project_repo: "https://github.com/pjpetro/Matrixio",
+    deployed_project: "https://serene-river-18393.herokuapp.com/"
+  },
+  {
     id: 1,
     image: require("./images/employeeDirectory.png"),
     card_title: "Employee Directory",
@@ -60,26 +83,6 @@ export default [
   },
   {
     id: 4,
-    image: require("./images/burgerApplication.png"),
-    card_title: "Eat A Burger!",
-    card_text:
-      "A burger logging application implementing the use of a MVC design pattern using MySQL, Node, Express, Handlebars and an ORM.",
-    technologies: [
-      "Node",
-      "MySql",
-      "Express",
-      "Handlebars",
-      "HTML",
-      "CSS",
-      "JavaScript",
-      "Heroku",
-      "Bootstrap"
-    ],
-    project_repo: "https://github.com/shelbypalumbo/Burger-App",
-    deployed_project: "https://whispering-sea-74102.herokuapp.com/"
-  },
-  {
-    id: 5,
     image: require("./images/bookWorm.png"),
     card_title: "Book Worm",
     card_text:
@@ -97,21 +100,23 @@ export default [
     deployed_project: "https://bookwormlibrary.herokuapp.com/index.html"
   },
   {
-    id: 6,
-    image: require("./images/crimeData.png"),
-    card_title: "Heat Wave Crime Data",
+    id: 5,
+    image: require("./images/burgerApplication.png"),
+    card_title: "Eat A Burger!",
     card_text:
-      "An application that allows a user to view the homicide rate and safety level of a states capital city.",
+      "A burger logging application implementing the use of a MVC design pattern using MySQL, Node, Express, Handlebars and an ORM.",
     technologies: [
-      "MAPbos GL JS API",
-      "FBI NIBRS API",
-      "JavaScript",
-      "jQuery",
+      "Node",
+      "MySql",
+      "Express",
+      "Handlebars",
       "HTML",
       "CSS",
-      "Foundation"
+      "JavaScript",
+      "Heroku",
+      "Bootstrap"
     ],
-    project_repo: "https://github.com/shelbypalumbo/Heat-Wave-Crime-Data",
-    deployed_project: "https://github.com/shelbypalumbo/Heat-Wave-Crime-Data"
+    project_repo: "https://github.com/shelbypalumbo/Burger-App",
+    deployed_project: "https://whispering-sea-74102.herokuapp.com/"
   }
 ];

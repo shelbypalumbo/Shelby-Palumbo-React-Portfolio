@@ -3,7 +3,7 @@ import ReactDOM from "react-dom";
 import Container from "../components/Container";
 import Col from "../components/Col";
 import Row from "../components/Row";
-import Resumepdf from "../images/Shelby_Palumbo_Resume.pdf";
+import Resumepdf from "../images/Shelby_Palumbo_New_Resume.pdf";
 import createReactClass from "create-react-class";
 import Navbar from "../components/Navbar";
 import Footer from "../components/Footer";
