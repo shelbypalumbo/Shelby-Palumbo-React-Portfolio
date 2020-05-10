@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "afea36436347ee99ddaf3664655f5fa8",
+    "revision": "a03c35c7bdca4cccc2b1c5a9e00e74db",
     "url": "/Shelby-Palumbo-React-Portfolio/index.html"
   },
   {
-    "revision": "3a5cd1d897c21c82d150",
-    "url": "/Shelby-Palumbo-React-Portfolio/static/css/main.66060253.chunk.css"
+    "revision": "6781ae067771aa092b43",
+    "url": "/Shelby-Palumbo-React-Portfolio/static/css/main.e1301149.chunk.css"
   },
   {
     "revision": "d0e2fa30c50147f99aa5",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Shelby-Palumbo-React-Portfolio/static/js/2.3e927d15.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3a5cd1d897c21c82d150",
-    "url": "/Shelby-Palumbo-React-Portfolio/static/js/main.40b98009.chunk.js"
+    "revision": "6781ae067771aa092b43",
+    "url": "/Shelby-Palumbo-React-Portfolio/static/js/main.6e2bcb88.chunk.js"
   },
   {
     "revision": "4cdbcd27e842309ed4d2",
@@ -28,8 +28,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Shelby-Palumbo-React-Portfolio/static/media/251.ea23869d.jpg"
   },
   {
-    "revision": "03d42677cb4496ed62a674798b240ece",
-    "url": "/Shelby-Palumbo-React-Portfolio/static/media/Shelby_Palumbo_Resume.03d42677.pdf"
+    "revision": "57e60059aa9ac9849ed61f60827b175e",
+    "url": "/Shelby-Palumbo-React-Portfolio/static/media/Matrixio.57e60059.png"
+  },
+  {
+    "revision": "9ff2276b147cffb7e7d67fef005e7e7c",
+    "url": "/Shelby-Palumbo-React-Portfolio/static/media/Shelby_Palumbo_New_Resume.9ff2276b.pdf"
   },
   {
     "revision": "18afcf91ad4feede95b86b33a5bac996",
@@ -50,10 +54,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ba2a1e9f4f96bee08f616437bb9796ac",
     "url": "/Shelby-Palumbo-React-Portfolio/static/media/cover.ba2a1e9f.jpg"
-  },
-  {
-    "revision": "e560e66ba8382d13023924b00d7e66f8",
-    "url": "/Shelby-Palumbo-React-Portfolio/static/media/crimeData.e560e66b.png"
   },
   {
     "revision": "26f63fc1da5c5a31986c9d2f7d9d31e9",
