@@ -6,7 +6,7 @@ https://shelbypalumbo.github.io/Shelby-Palumbo-React-Portfolio
 
 ## User Story
 
-As a Full Stack Development student, I want to showcase my past, present, and future professional work, so that I can network and find new career opportunities in the development world.
+As a Web Developer I want to showcase my past, present, and future professional work, so that I can network and find new career opportunities in the development world.
 
 ![Portfolio Cover Page](src/images/coverScreenShot.png)
 
