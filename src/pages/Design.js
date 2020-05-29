@@ -28,14 +28,14 @@ class Design extends Component {
                 <h2>Web Development Projects</h2>
                 <hr />
                 <p>
-                  Below are a few of my recent projects. Check out
+                  Below are a few of my recent projects. Check out my
                   <a
                     href="https://github.com/shelbypalumbo"
                     rel="noopener noreferrer"
                     target="_blank"
                   >
                     {" "}
-                    my github profile
+                    github profile
                   </a>{" "}
                   to view all of my work.
                 </p>
