@@ -62,7 +62,10 @@ class Tech extends Component {
             <hr />
             <Row>
               {this.state.techImages.map(techImgs => (
-                <Img image={techImgs.image} />
+                <Col size="lg-4 sm-12">
+                  {" "}
+                  <Img image={techImgs.image} />
+                </Col>
               ))}
             </Row>
           </Container>
