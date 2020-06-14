@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1fa9e9ff35e88b3c3de32fe96d6d25cb",
+    "revision": "8cefa59a7d412baa3600794dba57b239",
     "url": "/Shelby-Palumbo-React-Portfolio/index.html"
   },
   {
-    "revision": "5d33f2496c92705a9d6b",
-    "url": "/Shelby-Palumbo-React-Portfolio/static/css/main.19e76065.chunk.css"
+    "revision": "cd69936d761f8ecf6025",
+    "url": "/Shelby-Palumbo-React-Portfolio/static/css/main.9de81636.chunk.css"
   },
   {
-    "revision": "d0e2fa30c50147f99aa5",
-    "url": "/Shelby-Palumbo-React-Portfolio/static/js/2.3e927d15.chunk.js"
+    "revision": "cf865ce650719adc833d",
+    "url": "/Shelby-Palumbo-React-Portfolio/static/js/2.dc9ff9ef.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/Shelby-Palumbo-React-Portfolio/static/js/2.3e927d15.chunk.js.LICENSE.txt"
+    "url": "/Shelby-Palumbo-React-Portfolio/static/js/2.dc9ff9ef.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5d33f2496c92705a9d6b",
-    "url": "/Shelby-Palumbo-React-Portfolio/static/js/main.7867d674.chunk.js"
+    "revision": "cd69936d761f8ecf6025",
+    "url": "/Shelby-Palumbo-React-Portfolio/static/js/main.54e6fa16.chunk.js"
   },
   {
     "revision": "4cdbcd27e842309ed4d2",
@@ -36,6 +36,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Shelby-Palumbo-React-Portfolio/static/media/Shelby_Palumbo_New_Resume.5712197e.pdf"
   },
   {
+    "revision": "6fefbc604c40ba4388b1730214d0f814",
+    "url": "/Shelby-Palumbo-React-Portfolio/static/media/WFHsetUp.6fefbc60.JPG"
+  },
+  {
     "revision": "18afcf91ad4feede95b86b33a5bac996",
     "url": "/Shelby-Palumbo-React-Portfolio/static/media/bookWorm.18afcf91.png"
   },
@@ -52,8 +56,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Shelby-Palumbo-React-Portfolio/static/media/c12.d6b16e23.JPG"
   },
   {
-    "revision": "ba2a1e9f4f96bee08f616437bb9796ac",
-    "url": "/Shelby-Palumbo-React-Portfolio/static/media/cover.ba2a1e9f.jpg"
+    "revision": "eae67a8cfe4de154d8d01ffe94b8774e",
+    "url": "/Shelby-Palumbo-React-Portfolio/static/media/cover.eae67a8c.jpg"
+  },
+  {
+    "revision": "fa8b229a6642f6a7d371a7a53126eddd",
+    "url": "/Shelby-Palumbo-React-Portfolio/static/media/cutMylar.fa8b229a.png"
   },
   {
     "revision": "26f63fc1da5c5a31986c9d2f7d9d31e9",
@@ -76,8 +84,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Shelby-Palumbo-React-Portfolio/static/media/linkedinBadge.2266407a.png"
   },
   {
-    "revision": "007b69d6c57e1ec0da2e9ef2d68b0024",
-    "url": "/Shelby-Palumbo-React-Portfolio/static/media/me&lester.007b69d6.jpg"
+    "revision": "82ebe6c41ff7919d20098ddd3b56e1c2",
+    "url": "/Shelby-Palumbo-React-Portfolio/static/media/me&lester.82ebe6c4.jpg"
   },
   {
     "revision": "88f551fdb6b8051f7bd5a7d2a6cea614",
