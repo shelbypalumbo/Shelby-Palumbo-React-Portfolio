@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Shelby-Palumbo-React-Portfolio/static/css/main.9de81636.chunk.css",
+    "main.css": "/Shelby-Palumbo-React-Portfolio/static/css/main.bffadab9.chunk.css",
     "main.js": "/Shelby-Palumbo-React-Portfolio/static/js/main.54e6fa16.chunk.js",
     "main.js.map": "/Shelby-Palumbo-React-Portfolio/static/js/main.54e6fa16.chunk.js.map",
     "runtime-main.js": "/Shelby-Palumbo-React-Portfolio/static/js/runtime-main.ae9f9ad1.js",
@@ -8,9 +8,9 @@
     "static/js/2.dc9ff9ef.chunk.js": "/Shelby-Palumbo-React-Portfolio/static/js/2.dc9ff9ef.chunk.js",
     "static/js/2.dc9ff9ef.chunk.js.map": "/Shelby-Palumbo-React-Portfolio/static/js/2.dc9ff9ef.chunk.js.map",
     "index.html": "/Shelby-Palumbo-React-Portfolio/index.html",
-    "precache-manifest.7a39364c3cae191d0dbdd49a5c1ae1ee.js": "/Shelby-Palumbo-React-Portfolio/precache-manifest.7a39364c3cae191d0dbdd49a5c1ae1ee.js",
+    "precache-manifest.f19c8467648462fc5e95dddb3e989023.js": "/Shelby-Palumbo-React-Portfolio/precache-manifest.f19c8467648462fc5e95dddb3e989023.js",
     "service-worker.js": "/Shelby-Palumbo-React-Portfolio/service-worker.js",
-    "static/css/main.9de81636.chunk.css.map": "/Shelby-Palumbo-React-Portfolio/static/css/main.9de81636.chunk.css.map",
+    "static/css/main.bffadab9.chunk.css.map": "/Shelby-Palumbo-React-Portfolio/static/css/main.bffadab9.chunk.css.map",
     "static/js/2.dc9ff9ef.chunk.js.LICENSE.txt": "/Shelby-Palumbo-React-Portfolio/static/js/2.dc9ff9ef.chunk.js.LICENSE.txt",
     "static/media/251.jpg": "/Shelby-Palumbo-React-Portfolio/static/media/251.ea23869d.jpg",
     "static/media/Matrixio.png": "/Shelby-Palumbo-React-Portfolio/static/media/Matrixio.57e60059.png",
@@ -20,7 +20,7 @@
     "static/media/budgetTracker.png": "/Shelby-Palumbo-React-Portfolio/static/media/budgetTracker.d4bb1439.png",
     "static/media/burgerApplication.png": "/Shelby-Palumbo-React-Portfolio/static/media/burgerApplication.91a7f263.png",
     "static/media/c12.JPG": "/Shelby-Palumbo-React-Portfolio/static/media/c12.d6b16e23.JPG",
-    "static/media/style.css": "/Shelby-Palumbo-React-Portfolio/static/media/plantGreen.16b387a6.jpg",
+    "static/media/style.css": "/Shelby-Palumbo-React-Portfolio/static/media/plantGreen.7fbb27d6.jpg",
     "static/media/cutMylar.png": "/Shelby-Palumbo-React-Portfolio/static/media/cutMylar.fa8b229a.png",
     "static/media/employeeDirectory.png": "/Shelby-Palumbo-React-Portfolio/static/media/employeeDirectory.26f63fc1.png",
     "static/media/fitnessApplication.png": "/Shelby-Palumbo-React-Portfolio/static/media/fitnessApplication.b75ff811.png",
@@ -39,7 +39,7 @@
   "entrypoints": [
     "static/js/runtime-main.ae9f9ad1.js",
     "static/js/2.dc9ff9ef.chunk.js",
-    "static/css/main.9de81636.chunk.css",
+    "static/css/main.bffadab9.chunk.css",
     "static/js/main.54e6fa16.chunk.js"
   ]
 }
