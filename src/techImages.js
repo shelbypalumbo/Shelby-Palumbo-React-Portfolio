@@ -1,5 +1,9 @@
 export default [
   {
+    id: 0,
+    image: require("./images/techImages/me&lester.jpg")
+  },
+  {
     id: 1,
     image: require("./images/techImages/vin250.png")
   },
@@ -25,14 +29,22 @@ export default [
   },
   {
     id: 7,
-    image: require("./images/techImages/lap.jpg")
+    image: require("./images/techImages/cutMylar.png")
   },
   {
     id: 8,
-    image: require("./images/techImages/me.png")
+    image: require("./images/techImages/lap.jpg")
   },
   {
     id: 9,
+    image: require("./images/techImages/me.png")
+  },
+  {
+    id: 10,
     image: require("./images/techImages/c12.JPG")
+  },
+  {
+    id: 11,
+    image: require("./images/techImages/WFHsetUp.JPG")
   }
 ];

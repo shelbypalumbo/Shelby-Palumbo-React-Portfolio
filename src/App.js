@@ -1,6 +1,6 @@
 import React from "react";
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
-import Cover from "./pages/Cover";
+import Cover from "./pages/Cover/index";
 import About from "./pages/About";
 import Design from "./pages/Design";
 import Tech from "./pages/Tech";

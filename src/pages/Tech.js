@@ -2,7 +2,6 @@ import React, { Component } from "react";
 import Container from "../components/Container";
 import Row from "../components/Row";
 import Col from "../components/Col";
-import me_lester from "../images/techImages/me&lester.jpg";
 import techImages from "../techImages.js";
 import Img from "../components/Img";
 import Navbar from "../components/Navbar";
@@ -31,31 +30,24 @@ class Tech extends Component {
                 </h2>
                 <hr />
 
-                <div className="media">
-                  <div className="media-body">
-                    <p>
-                      &nbsp; Since 2014, I have worked in the professional audio
-                      industry as a Diamond Series Microphone Technician for{" "}
-                      <a
-                        rel="noopener noreferrer"
-                        href="https://www.telefunken-elektroakustik.com/"
-                        target="_blank"
-                      >
-                        Telefunken Elektroakustik.
-                      </a>
-                      As a technician, I have gained many applicable skills in
-                      maintaining technical hardware and managing a small team.
-                      I am a skilled precision solder, I am qualified to operate
-                      a lapping machine, sonic cleaners, power tools, table top
-                      machinery, digital multimeters, oscilliscopes, calipers,
-                      micrometers, etc.{" "}
-                    </p>
-                  </div>
-                  <img
-                    src={me_lester}
-                    className="align-self-start mr-3 lester shadow"
-                    alt="me and lester pup"
-                  />
+                <div className="techBio">
+                  <p>
+                    &nbsp; Since 2014, I have worked in the professional audio
+                    industry as a Diamond Series Microphone Technician for{" "}
+                    <a
+                      rel="noopener noreferrer"
+                      href="https://www.telefunken-elektroakustik.com/"
+                      target="_blank"
+                    >
+                      Telefunken Elektroakustik.
+                    </a>
+                    As a technician, I have gained many applicable skills in
+                    maintaining technical hardware and managing a small team. I
+                    am a skilled precision solder, I am qualified to operate a
+                    lapping machine, sonic cleaners, power tools, table top
+                    machinery, digital multimeters, oscilliscopes, calipers,
+                    micrometers, etc.{" "}
+                  </p>
                 </div>
               </Col>
             </Row>

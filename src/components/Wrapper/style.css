@@ -10,6 +10,11 @@ a {
   color: #807e7e;
 }
 
+a:hover {
+  opacity: 0.5;
+  color: rgb(117, 97, 207);
+}
+
 .btn {
   background-color: #f1eab0;
   color: black;
@@ -38,19 +43,4 @@ p {
   width: 300px;
   margin: 10px 0px 0px 10px;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-}
-
-.coverpageText {
-  padding: 200px 0px 0px 50px;
-  color: white;
-  font-family: "Questrial", sans-serif;
-}
-
-a:hover {
-  opacity: 0.5;
-  color: rgb(117, 97, 207);
-}
-.coverBtn,
-a:hover {
-  text-decoration: none;
 }

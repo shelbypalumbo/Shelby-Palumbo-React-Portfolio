@@ -1,0 +1,23 @@
+html,
+.coverpageText {
+  background: url("../../images/cover.jpg") center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+}
+
+.coverpageText {
+  background-color: transparent;
+  color: white;
+  padding: 200px 0px 0px 50px;
+  font-family: "Questrial", sans-serif;
+}
+
+.coverBtn {
+  color: black;
+  text-decoration: none;
+}
+
+.coverBtn:hover {
+  color: rgb(143, 60, 51);
+}
