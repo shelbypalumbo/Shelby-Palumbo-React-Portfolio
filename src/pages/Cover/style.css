@@ -8,8 +8,8 @@ html,
 
 .coverpageText {
   background-color: transparent;
-  color: white;
-  padding: 200px 0px 0px 50px;
+  color: rgb(255, 255, 255);
+  padding: 200px 0px 0px 60px;
   font-family: "Questrial", sans-serif;
 }
 
