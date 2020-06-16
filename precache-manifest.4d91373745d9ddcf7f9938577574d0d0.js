@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "165b8d9dce17da7163a9489f3279cb35",
+    "revision": "e6cedbcedf7d53357c39f9f8b71857b0",
     "url": "/Shelby-Palumbo-React-Portfolio/index.html"
   },
   {
-    "revision": "c005cd7a42ec31928d6a",
-    "url": "/Shelby-Palumbo-React-Portfolio/static/css/main.bffadab9.chunk.css"
+    "revision": "c8efaaa52cb132a5fdd4",
+    "url": "/Shelby-Palumbo-React-Portfolio/static/css/main.96df8b40.chunk.css"
   },
   {
     "revision": "cf865ce650719adc833d",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Shelby-Palumbo-React-Portfolio/static/js/2.dc9ff9ef.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c005cd7a42ec31928d6a",
-    "url": "/Shelby-Palumbo-React-Portfolio/static/js/main.54e6fa16.chunk.js"
+    "revision": "c8efaaa52cb132a5fdd4",
+    "url": "/Shelby-Palumbo-React-Portfolio/static/js/main.85d39d3a.chunk.js"
   },
   {
     "revision": "4cdbcd27e842309ed4d2",
@@ -56,8 +56,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Shelby-Palumbo-React-Portfolio/static/media/c12.d6b16e23.JPG"
   },
   {
-    "revision": "eae67a8cfe4de154d8d01ffe94b8774e",
-    "url": "/Shelby-Palumbo-React-Portfolio/static/media/cover.eae67a8c.jpg"
+    "revision": "e63ec70a6c4e3f9fddc679fa33c02b0e",
+    "url": "/Shelby-Palumbo-React-Portfolio/static/media/cover.e63ec70a.jpg"
   },
   {
     "revision": "fa8b229a6642f6a7d371a7a53126eddd",
@@ -72,8 +72,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Shelby-Palumbo-React-Portfolio/static/media/fitnessApplication.b75ff811.png"
   },
   {
-    "revision": "ce69675bbeb5bdeb9bbaf7147df2489c",
-    "url": "/Shelby-Palumbo-React-Portfolio/static/media/headshot2.ce69675b.png"
+    "revision": "8d97123750c2587873c7d731e3edd393",
+    "url": "/Shelby-Palumbo-React-Portfolio/static/media/headshot2.8d971237.png"
   },
   {
     "revision": "b83c821af367b6a4c0e4f63ad43ffdce",
