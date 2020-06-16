@@ -10,11 +10,11 @@ import Wrapper from "../components/Wrapper";
 import Jumbotron from "../components/Jumbotron";
 
 function About() {
-  const style = {
-    fontColor: {
-      color: "#a79b43"
-    }
-  };
+  // const style = {
+  //   fontColor: {
+  //     color: "#a79b43"
+  //   }
+  // };
   return (
     <div>
       <Jumbotron />
@@ -62,7 +62,7 @@ function About() {
               </p>
               <p>
                 &nbsp;&nbsp; &nbsp;&nbsp;I now have experience with{" "}
-                <strong style={style.fontColor}>
+                <strong className="technologies">
                   React, MongoDB, MySql, Node.js, Express.js, JavaScript, HTML,
                   and CSS.
                 </strong>

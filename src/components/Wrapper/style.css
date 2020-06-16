@@ -44,3 +44,25 @@ p {
   margin: 10px 0px 0px 10px;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
+
+.technologies {
+  text-emphasis: bold;
+  color: rgb(204, 129, 191);
+  animation-name: colorChange;
+  animation-duration: 6s;
+  animation-iteration-count: infinite;
+}
+@keyframes colorChange {
+  10% {
+    color: rgb(204, 129, 191);
+  }
+  25% {
+    color: goldenrod;
+  }
+  50% {
+    color: rgb(74, 192, 196);
+  }
+  100% {
+    color: rgb(194, 95, 189);
+  }
+}
