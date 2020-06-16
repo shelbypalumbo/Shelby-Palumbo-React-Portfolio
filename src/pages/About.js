@@ -21,10 +21,10 @@ function About() {
       <Wrapper>
         <Container>
           <Row>
-            <Col size="lg-2 sm-12">
+            <Col size="md-2 sm-12">
               <Navbar />
             </Col>
-            <Col size="lg-10 sm-12">
+            <Col size="md-10 sm-12">
               <h2>About Me</h2>
               <hr />
 
@@ -68,7 +68,6 @@ function About() {
                 </strong>
               </p>
               <p>
-                {" "}
                 &nbsp;&nbsp; &nbsp;&nbsp;These days you'll find me locked in on
                 a computer screen with a cup of coffee, or spending time with my
                 two cats, Mina and Loui.
