@@ -7,6 +7,10 @@
   border-right: 1px solid gray;
 }
 
+.nav {
+  margin-bottom: 20px;
+}
+
 .dropdown-item {
   background-color: rgb(252, 195, 189);
 }
