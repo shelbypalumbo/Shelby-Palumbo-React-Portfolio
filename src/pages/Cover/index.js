@@ -4,7 +4,10 @@ import "./style.css";
 
 function Cover() {
   return (
-    <div className="coverpageText text-left">
+    <div
+      style={{ fontFamily: "'Raleway', sans-serif" }}
+      className="coverpageText text-left"
+    >
       <h1> Shelby Palumbo</h1>
       <br />
       <h3>Web Developer </h3>
