@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3a1e21fd4fb31b02dbf19e9878334978",
+    "revision": "361ab384a52445d8290558efa42970f6",
     "url": "/Shelby-Palumbo-React-Portfolio/index.html"
   },
   {
-    "revision": "608ab51e3507eca916eb",
-    "url": "/Shelby-Palumbo-React-Portfolio/static/css/main.08ac0ed4.chunk.css"
+    "revision": "292f3e96a021a0211a4f",
+    "url": "/Shelby-Palumbo-React-Portfolio/static/css/main.8f557190.chunk.css"
   },
   {
     "revision": "cf865ce650719adc833d",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Shelby-Palumbo-React-Portfolio/static/js/2.dc9ff9ef.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "608ab51e3507eca916eb",
+    "revision": "292f3e96a021a0211a4f",
     "url": "/Shelby-Palumbo-React-Portfolio/static/js/main.758bb546.chunk.js"
   },
   {
@@ -56,8 +56,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Shelby-Palumbo-React-Portfolio/static/media/c12.d6b16e23.JPG"
   },
   {
-    "revision": "e63ec70a6c4e3f9fddc679fa33c02b0e",
-    "url": "/Shelby-Palumbo-React-Portfolio/static/media/cover.e63ec70a.jpg"
+    "revision": "3143b4352201289d19a3f8c001f36ac9",
+    "url": "/Shelby-Palumbo-React-Portfolio/static/media/cover2.3143b435.jpg"
   },
   {
     "revision": "fa8b229a6642f6a7d371a7a53126eddd",
@@ -96,8 +96,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Shelby-Palumbo-React-Portfolio/static/media/mylar.b2661a48.jpg"
   },
   {
-    "revision": "7fbb27d61ce8c581f685e41e658b7b5e",
-    "url": "/Shelby-Palumbo-React-Portfolio/static/media/plantGreen.7fbb27d6.jpg"
+    "revision": "668362387546b570f25688ba24037c55",
+    "url": "/Shelby-Palumbo-React-Portfolio/static/media/plantGreen.66836238.jpg"
   },
   {
     "revision": "24736ad6437c5e4aaf9796d0aa5669e7",
