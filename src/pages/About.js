@@ -51,17 +51,19 @@ function About() {
                 look back on some of my old web development projects from
                 college and I was immediately drawn back in. I started classes
                 &nbsp;through Coursera, watching tutorials, and then I stumbled
-                upon the UCONN coding bootcamp!
+                upon the UCONN Full Stack Coding Bootcamp.
                 <img className="cat-imgs" src={Cats} alt="Loui and Mina" />
               </p>
 
               <p>
-                &nbsp;&nbsp; &nbsp;&nbsp;This program has shown me that Web
+                &nbsp;&nbsp; &nbsp;&nbsp; This program has shown me that Web
                 Development is the right path for me. I find the challenge of an
-                ever changing field and lifelong learning exciting.
+                ever changing field and lifelong learning exhilarating.
               </p>
               <p>
-                &nbsp;&nbsp; &nbsp;&nbsp;I now have experience with{" "}
+                &nbsp;&nbsp; &nbsp;&nbsp; I received my certificate on May 9,
+                2020 and I couldn't be more excited for my future. I now have
+                experience with{" "}
                 <strong className="technologies">
                   React, MongoDB, MySql, Node.js, Express.js, JavaScript, HTML,
                   and CSS.

@@ -6,17 +6,19 @@ function Cover() {
   return (
     <div
       style={{ fontFamily: "'Raleway', sans-serif" }}
-      className="coverpageText text-left"
+      className="coverpage text-left"
     >
-      <h1> Shelby Palumbo</h1>
-      <br />
-      <h3>Web Developer </h3>
-      <h5>Check out my work!</h5>
-      <h6>
-        <Link to="/About" className="coverBtn">
-          Enter
-        </Link>
-      </h6>
+      <div className="text">
+        <h1> Shelby Palumbo</h1>
+        <br />
+        <h3>Web Developer </h3>
+        <h5>Check out my work!</h5>
+        <h6>
+          <Link to="/About" className="coverBtn">
+            Enter
+          </Link>
+        </h6>
+      </div>
     </div>
   );
 }

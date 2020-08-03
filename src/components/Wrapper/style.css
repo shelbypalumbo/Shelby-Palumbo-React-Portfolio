@@ -3,6 +3,7 @@
   display: flex;
   background-size: cover;
   background-repeat: no-repeat;
+  background-color: rgb(247, 244, 242);
   margin-top: -35px;
 }
 
@@ -12,16 +13,16 @@ a {
 
 a:hover {
   opacity: 0.5;
-  color: rgb(117, 97, 207);
+  color: rgb(55, 47, 168);
 }
 
 .btn {
-  background-color: #f1eab0;
+  background-color: #f3ea96;
   color: black;
 }
 
 .btn:hover {
-  background-color: rgb(207, 230, 227);
+  background-color: rgb(184, 236, 229);
 }
 
 p {

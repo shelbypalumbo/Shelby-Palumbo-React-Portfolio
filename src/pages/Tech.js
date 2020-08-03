@@ -40,7 +40,7 @@ class Tech extends Component {
                       target="_blank"
                     >
                       Telefunken Elektroakustik.
-                    </a>
+                    </a>{" "}
                     As a technician, I have gained many applicable skills in
                     maintaining technical hardware and managing a small team. I
                     am a skilled precision solder, I am qualified to operate a
