@@ -1,13 +1,29 @@
 .coverpage {
   font-family: "Raleway", sans-serif;
   background: url("../../images/cover2.jpg") center;
-  background-size: 400px;
+  background-size: 500px;
   opacity: 0.8;
   background-repeat: no-repeat;
   height: 100vh;
   color: rgb(51, 53, 52);
   padding: 140px 0px 0px 80px;
   font-family: "Questrial", sans-serif;
+}
+
+@media only screen and (max-width: 850px) {
+  .coverpage {
+    height: 100vh;
+    padding: 70px 0px 0px 30px;
+    background-size: 300px;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  .coverpage {
+    height: 80vh;
+    padding: 350px 0px 0px 30px;
+    background-size: 300px;
+  }
 }
 
 .text {
