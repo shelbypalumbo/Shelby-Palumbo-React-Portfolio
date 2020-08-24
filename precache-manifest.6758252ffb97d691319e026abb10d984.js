@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "da8050ef45d38cc8952ad8bc326aaad4",
+    "revision": "fe0c046119abd2e65fd0409043f4e856",
     "url": "/Shelby-Palumbo-React-Portfolio/index.html"
   },
   {
-    "revision": "2cb285efc7bec283bd7c",
-    "url": "/Shelby-Palumbo-React-Portfolio/static/css/main.57ae5886.chunk.css"
+    "revision": "834d39d4dbf30893e789",
+    "url": "/Shelby-Palumbo-React-Portfolio/static/css/main.6ad54a29.chunk.css"
   },
   {
-    "revision": "cf865ce650719adc833d",
-    "url": "/Shelby-Palumbo-React-Portfolio/static/js/2.dc9ff9ef.chunk.js"
+    "revision": "c175861d275ce3fb6530",
+    "url": "/Shelby-Palumbo-React-Portfolio/static/js/2.8ace5538.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/Shelby-Palumbo-React-Portfolio/static/js/2.dc9ff9ef.chunk.js.LICENSE.txt"
+    "url": "/Shelby-Palumbo-React-Portfolio/static/js/2.8ace5538.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2cb285efc7bec283bd7c",
-    "url": "/Shelby-Palumbo-React-Portfolio/static/js/main.3ce3c8e9.chunk.js"
+    "revision": "834d39d4dbf30893e789",
+    "url": "/Shelby-Palumbo-React-Portfolio/static/js/main.fb38c607.chunk.js"
   },
   {
     "revision": "4cdbcd27e842309ed4d2",
