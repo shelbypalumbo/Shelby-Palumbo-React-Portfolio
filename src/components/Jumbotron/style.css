@@ -11,3 +11,12 @@
   padding-top: 100px;
   height: 270px;
 }
+
+@media only screen and (max-width: 520px) {
+  .display-4 {
+    font-size: 2.8rem;
+  }
+  .jumbotron {
+    height: 240px;
+  }
+}

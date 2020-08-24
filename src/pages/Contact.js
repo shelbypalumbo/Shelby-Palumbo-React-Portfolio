@@ -26,7 +26,7 @@ function Contact() {
             </Col>
 
             <Col size="lg-6 sm-12">
-              <h2>Contact Info</h2>
+              <h2 className="page-title">Contact Info</h2>
               <hr />
               <Form />
             </Col>

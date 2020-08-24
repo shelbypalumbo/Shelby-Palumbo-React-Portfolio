@@ -7,3 +7,15 @@
   margin-bottom: 25px;
   padding: 30px 50px 30px 50px;
 }
+
+@media only screen and (max-width: 520px) {
+  .container {
+    text-align: center;
+  }
+}
+
+@media only screen and (max-width: 950px) {
+  .page-title {
+    margin-top: 30px;
+  }
+}

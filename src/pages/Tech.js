@@ -25,7 +25,7 @@ class Tech extends Component {
                 <Navbar />
               </Col>
               <Col size="lg-10 sm-12">
-                <h2 className="text-left">
+                <h2 className="page-title text-left">
                   My Time as a Microphone Technician
                 </h2>
                 <hr />

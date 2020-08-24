@@ -25,7 +25,7 @@ class Design extends Component {
                 <Navbar />
               </Col>
               <Col size="lg-10 sm-12">
-                <h2>Web Development Projects</h2>
+                <h2 className="page-title">Web Development Projects</h2>
                 <hr />
                 <p>
                   Below are a few of my recent projects. Check out my

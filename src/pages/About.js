@@ -25,7 +25,7 @@ function About() {
               <Navbar />
             </Col>
             <Col size="md-10 sm-12">
-              <h2>About Me</h2>
+              <h2 className="page-title">About Me</h2>
               <hr />
 
               <p>

@@ -53,7 +53,7 @@ function SPResume() {
               <Navbar />
             </Col>
             <Col size="lg-10 sm-12">
-              <h2>My Resume</h2>
+              <h2 className="page-title">My Resume</h2>
               <hr />
               <Resume />
             </Col>
