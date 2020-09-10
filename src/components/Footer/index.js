@@ -1,5 +1,6 @@
 import React from "react";
 import "./style.css";
+import fivver from "../../images/fivver.png";
 
 function Footer() {
   return (
@@ -26,6 +27,13 @@ function Footer() {
             <i className="fab fa-github fa-lg white-text mr-md-3 mr-3 fa-2x">
               {" "}
             </i>
+          </a>
+          <a
+            href="https://www.fiverr.com/share/NWE2vo"
+            rel="noopener noreferrer"
+            target="_blank"
+          >
+            <img className="fivver" src={fivver} />
           </a>
         </span>
       </div>

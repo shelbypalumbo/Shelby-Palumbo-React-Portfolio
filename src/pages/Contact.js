@@ -8,6 +8,7 @@ import Footer from "../components/Footer";
 import Wrapper from "../components/Wrapper";
 import Jumbotron from "../components/Jumbotron";
 import linkedinBadge from "../images/linkedinBadge.png";
+import fivver from "../images/fivver.png";
 
 function Contact() {
   const style = {
@@ -46,6 +47,16 @@ function Contact() {
                 <i className="fab fa-github fa-lg white-text mr-md-3 mr-3 fa-2x" />
                 My Github
               </a>
+              <br />
+              <br />
+              <a
+                href="https://www.fiverr.com/share/NWE2vo"
+                rel="noopener noreferrer"
+                target="_blank"
+              >
+                <img className="fivver" src={fivver} />
+              </a>{" "}
+              Freelance Package
               <br />
               <br />
               <div
