@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6be8ecd014ced90c67da5ebf1f9c9901",
+    "revision": "316b19a375405d09b0f5c69976e64241",
     "url": "/Shelby-Palumbo-React-Portfolio/index.html"
   },
   {
-    "revision": "a38b2394a4a69f766a62",
+    "revision": "472bda458c9703cf66fe",
     "url": "/Shelby-Palumbo-React-Portfolio/static/css/main.546c227a.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Shelby-Palumbo-React-Portfolio/static/js/2.ba7512d9.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a38b2394a4a69f766a62",
-    "url": "/Shelby-Palumbo-React-Portfolio/static/js/main.c73ba1d4.chunk.js"
+    "revision": "472bda458c9703cf66fe",
+    "url": "/Shelby-Palumbo-React-Portfolio/static/js/main.7db5250b.chunk.js"
   },
   {
     "revision": "4cdbcd27e842309ed4d2",
@@ -72,16 +72,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Shelby-Palumbo-React-Portfolio/static/media/fitnessApplication.b75ff811.png"
   },
   {
-    "revision": "8d97123750c2587873c7d731e3edd393",
-    "url": "/Shelby-Palumbo-React-Portfolio/static/media/headshot2.8d971237.png"
+    "revision": "36b449344c6248c50cde085a84f838dd",
+    "url": "/Shelby-Palumbo-React-Portfolio/static/media/headshot1.36b44934.jpeg"
   },
   {
     "revision": "b83c821af367b6a4c0e4f63ad43ffdce",
     "url": "/Shelby-Palumbo-React-Portfolio/static/media/lap.b83c821a.jpg"
   },
   {
-    "revision": "2266407ad13272b4ca513c5853a730eb",
-    "url": "/Shelby-Palumbo-React-Portfolio/static/media/linkedinBadge.2266407a.png"
+    "revision": "0edb0196360d293d72dc5fd26bb0f10c",
+    "url": "/Shelby-Palumbo-React-Portfolio/static/media/linkedinBadge.0edb0196.png"
   },
   {
     "revision": "82ebe6c41ff7919d20098ddd3b56e1c2",
