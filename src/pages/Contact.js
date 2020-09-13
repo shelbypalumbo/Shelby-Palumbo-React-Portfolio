@@ -54,7 +54,7 @@ function Contact() {
                 rel="noopener noreferrer"
                 target="_blank"
               >
-                <img className="fivver" src={fivver} />
+                <img className="fivver" src={fivver} alt="fivverBadge" />
               </a>{" "}
               Freelance Package
               <br />
@@ -70,6 +70,8 @@ function Contact() {
               >
                 <a
                   className="LI-simple-link"
+                  rel="noopener noreferrer"
+                  target="_blank"
                   href="https://www.linkedin.com/in/shelby-palumbo?trk=profile-badge"
                 >
                   <img
