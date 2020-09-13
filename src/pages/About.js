@@ -2,7 +2,7 @@ import React from "react";
 import Container from "../components/Container";
 import Row from "../components/Row";
 import Col from "../components/Col";
-import Headshot from "../images/headshot2.png";
+import Headshot from "../images/headshot1.jpeg";
 import Cats from "../images/tableCats.jpg";
 import Navbar from "../components/Navbar";
 import Footer from "../components/Footer";
