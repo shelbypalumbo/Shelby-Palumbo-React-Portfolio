@@ -20,6 +20,13 @@
 
 .dropdown-item {
   background-color: rgb(252, 195, 189);
+  color: rgb(80, 78, 78);
+}
+
+.dropdown-item:hover {
+  opacity: 0.9;
+  color: rgb(80, 78, 78);
+  background-color: rgb(253, 219, 215);
 }
 
 .nav-link {

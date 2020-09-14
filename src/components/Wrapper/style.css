@@ -49,6 +49,9 @@ p {
 @media only screen and (max-width: 520px) {
   .cat-imgs {
     float: none;
+    margin: 0px;
+    margin-top: 10px;
+    width: 250px;
   }
   .bio-imgs {
     width: 90%;

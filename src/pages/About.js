@@ -74,6 +74,26 @@ function About() {
                 a computer screen with a cup of coffee, or spending time with my
                 two cats, Mina and Loui.
               </p>
+              <p>
+                For any freelance inquiries visit my{" "}
+                <a
+                  href="https://www.fiverr.com/share/NWE2vo"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  fivver gig,
+                </a>{" "}
+                connect with me on{" "}
+                <a
+                  className="LI-simple-link"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                  href="https://www.linkedin.com/in/shelby-palumbo?trk=profile-badge"
+                >
+                  linkedIn,
+                </a>{" "}
+                or visit my contact page.
+              </p>
             </Col>
           </Row>
         </Container>
