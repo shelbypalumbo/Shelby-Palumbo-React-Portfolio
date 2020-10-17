@@ -7,7 +7,6 @@ import Navbar from "../components/Navbar";
 import Footer from "../components/Footer";
 import Wrapper from "../components/Wrapper";
 import Jumbotron from "../components/Jumbotron";
-import linkedinBadge from "../images/linkedinBadge.png";
 import fivver from "../images/fivver.png";
 
 function Contact() {
@@ -70,15 +69,9 @@ function Contact() {
               >
                 <a
                   className="LI-simple-link"
-                  rel="noopener noreferrer"
-                  target="_blank"
                   href="https://www.linkedin.com/in/shelby-palumbo?trk=profile-badge"
                 >
-                  <img
-                    className="linkedinBadge"
-                    alt="linkedinBadge"
-                    src={linkedinBadge}
-                  ></img>
+                  Shelby Palumbo
                 </a>
               </div>
             </Col>
