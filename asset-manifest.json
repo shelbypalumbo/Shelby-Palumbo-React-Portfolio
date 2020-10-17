@@ -1,25 +1,27 @@
 {
   "files": {
     "main.css": "/Shelby-Palumbo-React-Portfolio/static/css/main.a4b5f550.chunk.css",
-    "main.js": "/Shelby-Palumbo-React-Portfolio/static/js/main.0878bcdf.chunk.js",
-    "main.js.map": "/Shelby-Palumbo-React-Portfolio/static/js/main.0878bcdf.chunk.js.map",
+    "main.js": "/Shelby-Palumbo-React-Portfolio/static/js/main.be2174e6.chunk.js",
+    "main.js.map": "/Shelby-Palumbo-React-Portfolio/static/js/main.be2174e6.chunk.js.map",
     "runtime-main.js": "/Shelby-Palumbo-React-Portfolio/static/js/runtime-main.ae9f9ad1.js",
     "runtime-main.js.map": "/Shelby-Palumbo-React-Portfolio/static/js/runtime-main.ae9f9ad1.js.map",
-    "static/js/2.ba7512d9.chunk.js": "/Shelby-Palumbo-React-Portfolio/static/js/2.ba7512d9.chunk.js",
-    "static/js/2.ba7512d9.chunk.js.map": "/Shelby-Palumbo-React-Portfolio/static/js/2.ba7512d9.chunk.js.map",
+    "static/js/2.d2c4835f.chunk.js": "/Shelby-Palumbo-React-Portfolio/static/js/2.d2c4835f.chunk.js",
+    "static/js/2.d2c4835f.chunk.js.map": "/Shelby-Palumbo-React-Portfolio/static/js/2.d2c4835f.chunk.js.map",
     "index.html": "/Shelby-Palumbo-React-Portfolio/index.html",
-    "precache-manifest.1e2aaef432d5b7e922e5cf90a560763e.js": "/Shelby-Palumbo-React-Portfolio/precache-manifest.1e2aaef432d5b7e922e5cf90a560763e.js",
+    "precache-manifest.b6b18b119afbb786457e8af6c7ead0ab.js": "/Shelby-Palumbo-React-Portfolio/precache-manifest.b6b18b119afbb786457e8af6c7ead0ab.js",
     "service-worker.js": "/Shelby-Palumbo-React-Portfolio/service-worker.js",
     "static/css/main.a4b5f550.chunk.css.map": "/Shelby-Palumbo-React-Portfolio/static/css/main.a4b5f550.chunk.css.map",
-    "static/js/2.ba7512d9.chunk.js.LICENSE.txt": "/Shelby-Palumbo-React-Portfolio/static/js/2.ba7512d9.chunk.js.LICENSE.txt",
+    "static/js/2.d2c4835f.chunk.js.LICENSE.txt": "/Shelby-Palumbo-React-Portfolio/static/js/2.d2c4835f.chunk.js.LICENSE.txt",
     "static/media/251.jpg": "/Shelby-Palumbo-React-Portfolio/static/media/251.ea23869d.jpg",
+    "static/media/251repair.png": "/Shelby-Palumbo-React-Portfolio/static/media/251repair.cbe23d0d.png",
+    "static/media/47_systems.png": "/Shelby-Palumbo-React-Portfolio/static/media/47_systems.e9ddffdb.png",
     "static/media/Matrixio.png": "/Shelby-Palumbo-React-Portfolio/static/media/Matrixio.57e60059.png",
-    "static/media/Shelby_Palumbo_Resume.pdf": "/Shelby-Palumbo-React-Portfolio/static/media/Shelby_Palumbo_Resume.2ffd860e.pdf",
-    "static/media/WFHsetUp.JPG": "/Shelby-Palumbo-React-Portfolio/static/media/WFHsetUp.6fefbc60.JPG",
+    "static/media/Shelby_Palumbo_Resume.pdf": "/Shelby-Palumbo-React-Portfolio/static/media/Shelby_Palumbo_Resume.3421cf79.pdf",
     "static/media/bookWorm.png": "/Shelby-Palumbo-React-Portfolio/static/media/bookWorm.18afcf91.png",
     "static/media/budgetTracker.png": "/Shelby-Palumbo-React-Portfolio/static/media/budgetTracker.d4bb1439.png",
     "static/media/burgerApplication.png": "/Shelby-Palumbo-React-Portfolio/static/media/burgerApplication.91a7f263.png",
     "static/media/c12.JPG": "/Shelby-Palumbo-React-Portfolio/static/media/c12.d6b16e23.JPG",
+    "static/media/c12_chasis.png": "/Shelby-Palumbo-React-Portfolio/static/media/c12_chasis.e14a9daf.png",
     "static/media/style.css": "/Shelby-Palumbo-React-Portfolio/static/media/plantGreen.66836238.jpg",
     "static/media/cutMylar.png": "/Shelby-Palumbo-React-Portfolio/static/media/cutMylar.fa8b229a.png",
     "static/media/employeeDirectory.png": "/Shelby-Palumbo-React-Portfolio/static/media/employeeDirectory.26f63fc1.png",
@@ -33,13 +35,12 @@
     "static/media/tableCats.jpg": "/Shelby-Palumbo-React-Portfolio/static/media/tableCats.24736ad6.jpg",
     "static/media/transplate.jpg": "/Shelby-Palumbo-React-Portfolio/static/media/transplate.3fa5aa76.jpg",
     "static/media/u47.jpg": "/Shelby-Palumbo-React-Portfolio/static/media/u47.6269b5f9.jpg",
-    "static/media/vf14k.jpg": "/Shelby-Palumbo-React-Portfolio/static/media/vf14k.74a13929.jpg",
-    "static/media/vin250.png": "/Shelby-Palumbo-React-Portfolio/static/media/vin250.05754af8.png"
+    "static/media/vf14k.jpg": "/Shelby-Palumbo-React-Portfolio/static/media/vf14k.74a13929.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.ae9f9ad1.js",
-    "static/js/2.ba7512d9.chunk.js",
+    "static/js/2.d2c4835f.chunk.js",
     "static/css/main.a4b5f550.chunk.css",
-    "static/js/main.0878bcdf.chunk.js"
+    "static/js/main.be2174e6.chunk.js"
   ]
 }
