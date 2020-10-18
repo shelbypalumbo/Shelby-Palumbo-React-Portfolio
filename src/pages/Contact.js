@@ -72,7 +72,11 @@ function Contact() {
                   className="LI-simple-link"
                   href="https://www.linkedin.com/in/shelby-palumbo?trk=profile-badge"
                 >
-                  <img className="linkedinBadge" src={linkedinBadge} />
+                  <img
+                    className="linkedinBadge"
+                    src={linkedinBadge}
+                    alt="linkedinBadge"
+                  />
                 </a>
               </div>
             </Col>
