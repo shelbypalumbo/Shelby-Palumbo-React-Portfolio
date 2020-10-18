@@ -8,6 +8,7 @@ import Footer from "../components/Footer";
 import Wrapper from "../components/Wrapper";
 import Jumbotron from "../components/Jumbotron";
 import fivver from "../images/fivver.png";
+import linkedinBadge from "../images/linkedinBadge.png";
 
 function Contact() {
   const style = {
@@ -71,7 +72,7 @@ function Contact() {
                   className="LI-simple-link"
                   href="https://www.linkedin.com/in/shelby-palumbo?trk=profile-badge"
                 >
-                  Shelby Palumbo
+                  <img class="linkedinBadge" src={linkedinBadge} />
                 </a>
               </div>
             </Col>
