@@ -62,7 +62,7 @@ export default [
   },
   {
     id: 3,
-    image: require("./images/fitnessApplication.png"),
+    image: require("./images/fitnessApp.png"),
     card_title: "Fitness Tracker",
     card_text:
       "A workout logging application that allows users to create, add to, view, and track daily workout routines.",

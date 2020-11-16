@@ -56,14 +56,10 @@ function About() {
               </p>
 
               <p>
-                &nbsp;&nbsp; &nbsp;&nbsp; This program has shown me that Web
-                Development is the right path for me. I find the challenge of an
-                ever changing field and lifelong learning exhilarating.
-              </p>
-              <p>
                 &nbsp;&nbsp; &nbsp;&nbsp; I received my certificate on May 9,
-                2020 and I couldn't be more excited for my future. I now have
-                experience with{" "}
+                2020 and I couldn't be more excited for my future. I find the
+                challenge of an ever changing field and lifelong learning
+                exhilarating. I now have experience with{" "}
                 <strong className="technologies">
                   React, MongoDB, MySql, Node.js, Express.js, JavaScript, HTML,
                   and CSS.
