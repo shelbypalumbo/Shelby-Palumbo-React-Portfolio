@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "be30dc51318c46db3c32374481d4876f",
+    "revision": "7b650f7f5d55776b19115d1cd0d38fe0",
     "url": "/Shelby-Palumbo-React-Portfolio/index.html"
   },
   {
-    "revision": "c91078e1c2912cae9f4e",
+    "revision": "5c3b10546b80de93d483",
     "url": "/Shelby-Palumbo-React-Portfolio/static/css/main.9674009c.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Shelby-Palumbo-React-Portfolio/static/js/2.d2c4835f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c91078e1c2912cae9f4e",
-    "url": "/Shelby-Palumbo-React-Portfolio/static/js/main.edb1e62c.chunk.js"
+    "revision": "5c3b10546b80de93d483",
+    "url": "/Shelby-Palumbo-React-Portfolio/static/js/main.3e819f33.chunk.js"
   },
   {
     "revision": "4cdbcd27e842309ed4d2",
@@ -76,8 +76,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Shelby-Palumbo-React-Portfolio/static/media/employeeDirectory.26f63fc1.png"
   },
   {
-    "revision": "b75ff81146fc765d31e69c4a2dda5c06",
-    "url": "/Shelby-Palumbo-React-Portfolio/static/media/fitnessApplication.b75ff811.png"
+    "revision": "92ed0130f5b247fd5186607f1bb6bd22",
+    "url": "/Shelby-Palumbo-React-Portfolio/static/media/fitnessApp.92ed0130.png"
   },
   {
     "revision": "36b449344c6248c50cde085a84f838dd",
