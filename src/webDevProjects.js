@@ -14,7 +14,7 @@ export default [
       "Node.js",
       "HTML",
       "CSS",
-      "Javascript",
+      "JavaScript",
       "Heroku",
       "React-moment",
       "React-bootstrap"
@@ -24,6 +24,23 @@ export default [
   },
   {
     id: 1,
+    image: require("./images/algor_rythm.png"),
+    card_title: "Algor-Rythm",
+    card_text: "A react application showcasing my algorithm library.",
+    technologies: [
+      "React",
+      "JSX",
+      "HTML",
+      "CSS",
+      "JavaScript",
+
+      "React-bootstrap"
+    ],
+    project_repo: "https://github.com/shelbypalumbo/Algor-Rythm",
+    deployed_project: "https://shelbypalumbo.github.io/Algor-Rythm/"
+  },
+  {
+    id: 2,
     image: require("./images/employeeDirectory.png"),
     card_title: "Employee Directory",
     card_text:
@@ -42,7 +59,7 @@ export default [
     deployed_project: "https://shelbypalumbo.github.io/Employee-Directory/"
   },
   {
-    id: 2,
+    id: 3,
     image: require("./images/budgetTracker.png"),
     card_title: "Budget Tracker",
     card_text:
@@ -55,13 +72,13 @@ export default [
       "Node.js",
       "HTML",
       "CSS",
-      "Javascript"
+      "JavaScript"
     ],
     project_repo: "https://github.com/shelbypalumbo/Budget-Tracker",
     deployed_project: "https://fast-ridge-93546.herokuapp.com/"
   },
   {
-    id: 3,
+    id: 4,
     image: require("./images/fitnessApp.png"),
     card_title: "Fitness Tracker",
     card_text:
@@ -82,7 +99,7 @@ export default [
       "https://murmuring-retreat-60695.herokuapp.com/?id=5e88bf62112f820017c0e529"
   },
   {
-    id: 4,
+    id: 5,
     image: require("./images/bookWorm.png"),
     card_title: "Book Worm",
     card_text:
@@ -100,7 +117,7 @@ export default [
     deployed_project: "https://bookwormlibrary.herokuapp.com/index.html"
   },
   {
-    id: 5,
+    id: 6,
     image: require("./images/burgerApplication.png"),
     card_title: "Eat A Burger!",
     card_text:
