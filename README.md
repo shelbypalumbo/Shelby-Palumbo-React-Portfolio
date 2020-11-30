@@ -21,8 +21,9 @@ My portfolio includes an about me section, a professional resume, a gallery, and
 - JavaScript
 - JQuery
 
-### Additional Styling Framework
+### Additional Styling Framework & Resources
 
 - Bootstrap | https://getbootstrap.com/
 - Fontsawesome icons | https://fontawesome.com/icons?d=gallery&m=free
 - Google Fonts | https://fonts.google.com/?selection.family=Odibee+Sans
+- Tinypng | https://tinypng.com/
