@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "469b07d513c08c21f270889fbf2192fb",
+    "revision": "653b16f379e21fcca4f0acef876110a6",
     "url": "/Shelby-Palumbo-React-Portfolio/index.html"
   },
   {
-    "revision": "115ddfee668f6f70cce8",
+    "revision": "e3f391f63fc6b54d9e23",
     "url": "/Shelby-Palumbo-React-Portfolio/static/css/main.9674009c.chunk.css"
   },
   {
-    "revision": "80b368d4e71a1350465e",
-    "url": "/Shelby-Palumbo-React-Portfolio/static/js/2.e3137c86.chunk.js"
+    "revision": "e1af3310294393d1a28b",
+    "url": "/Shelby-Palumbo-React-Portfolio/static/js/2.bbdc6c85.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/Shelby-Palumbo-React-Portfolio/static/js/2.e3137c86.chunk.js.LICENSE.txt"
+    "url": "/Shelby-Palumbo-React-Portfolio/static/js/2.bbdc6c85.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "115ddfee668f6f70cce8",
-    "url": "/Shelby-Palumbo-React-Portfolio/static/js/main.395b665c.chunk.js"
+    "revision": "e3f391f63fc6b54d9e23",
+    "url": "/Shelby-Palumbo-React-Portfolio/static/js/main.9e30ea54.chunk.js"
   },
   {
     "revision": "4cdbcd27e842309ed4d2",
@@ -102,6 +102,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "88f551fdb6b8051f7bd5a7d2a6cea614",
     "url": "/Shelby-Palumbo-React-Portfolio/static/media/me.88f551fd.png"
+  },
+  {
+    "revision": "2372d813edb6d039a5dcb902340d3fbf",
+    "url": "/Shelby-Palumbo-React-Portfolio/static/media/memoryGame.2372d813.png"
   },
   {
     "revision": "b2661a48181f781afa0fbcae9265f863",
