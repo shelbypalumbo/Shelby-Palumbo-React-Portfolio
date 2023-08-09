@@ -61,8 +61,8 @@ function About() {
                 challenge of an ever changing field and lifelong learning
                 exhilarating. I now have experience with{" "}
                 <strong className="technologies">
-                  React, MongoDB, MySql, Node.js, Express.js, JavaScript, HTML,
-                  and CSS.
+                  React, MongoDB, MySql, Node.js, Express.js, JavaScript, HTML, and
+                  CSS.
                 </strong>
               </p>
               <p>
@@ -71,7 +71,7 @@ function About() {
                 two cats, Mina and Loui.
               </p>
               <p>
-                For any freelance inquiries visit my{" "}
+                For freelance inquiries visit my{" "}
                 <a
                   href="https://www.fiverr.com/share/NWE2vo"
                   rel="noopener noreferrer"
