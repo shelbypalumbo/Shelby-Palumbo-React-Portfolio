@@ -12,7 +12,6 @@ function Cover() {
         <h1> Shelby Palumbo</h1>
         <br />
         <h3>Web Developer </h3>
-        <h5>Check out my work!</h5>
         <h6>
           <Link to="/About" className="coverBtn">
             Enter

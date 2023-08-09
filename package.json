@@ -7,15 +7,16 @@
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
     "@testing-library/user-event": "^7.2.1",
-    "create-react-class": "^15.6.3",
+    "create-react-class": "^15.7.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-pdf": "^4.1.0",
     "react-perf-devtool": "^3.1.8",
     "react-router-dom": "^5.1.2",
-    "react-scripts": "3.4.1",
+    "react-scripts": "^3.4.1",
     "react-scroll": "^1.7.16",
-    "react-social-badge": "^1.0.6"
+    "react-social-badge": "^1.0.6",
+    "start": "^5.1.0"
   },
   "engines": {
     "node": "12.13.0",
