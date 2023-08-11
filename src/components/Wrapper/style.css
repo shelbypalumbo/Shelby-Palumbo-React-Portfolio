@@ -29,17 +29,17 @@ p {
   font-size: 13pt;
 }
 
-.bio-imgs {
+/* .bio-imgs {
   border-radius: 10px;
   float: left;
   height: 300px;
   width: auto;
   margin: 0px 15px 0px 0px;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-}
+} */
 
 .cat-imgs {
-  border-radius: 10px;
+  border-radius: 50%;
   float: right;
   width: 300px;
   margin: 10px 0px 0px 10px;
@@ -52,14 +52,6 @@ p {
     margin: 0px;
     margin-top: 10px;
     width: 250px;
-  }
-  .bio-imgs {
-    width: 90%;
-    height: 90%;
-    float: none;
-    margin-bottom: 10px;
-    margin-right: 0;
-    margin-left: 10px;
   }
 }
 

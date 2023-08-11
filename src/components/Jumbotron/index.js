@@ -3,12 +3,12 @@ import "./style.css";
 
 function Jumbotron(props) {
   return (
-    <div className="jumbotron jumbotron-fluid">
-      <div className="jumbodisplay">
+    <div className="jumbotron">
+      {/* <div className="jumbodisplay">
         <h1 className="display-4">
-          Shelby Palumbo <i className="fas fa-laptop-code"></i>
+          Shelby Palumbo
         </h1>
-      </div>
+      </div> */}
     </div>
   );
 }

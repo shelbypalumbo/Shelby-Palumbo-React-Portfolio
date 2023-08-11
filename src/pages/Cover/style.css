@@ -1,38 +1,43 @@
 .coverpage {
   font-family: "Raleway", sans-serif;
-  background: url("../../images/cover2.jpg") center;
-  background-size: 500px;
   opacity: 0.8;
-  background-repeat: no-repeat;
-  height: 100vh;
-  color: rgb(51, 53, 52);
-  padding: 140px 0px 0px 80px;
+  color: white;
+  padding:10%;
   font-family: "Questrial", sans-serif;
-}
+  background-color:black;
+  height:100vh;
 
-@media only screen and (max-width: 850px) {
-  .coverpage {
-    height: 100vh;
-    padding: 70px 0px 0px 30px;
-    background-size: 300px;
-  }
 }
-
-@media only screen and (max-width: 600px) {
-  .coverpage {
-    height: 80vh;
-    padding: 350px 0px 0px 30px;
-    background-size: 300px;
-  }
-}
-
 .text {
-  width: 300px;
-  height: 300px;
+  padding:10%;
+  float:left;
   position: relative;
   animation-name: fadeIn;
   animation-duration: 3s;
 }
+
+.bio-imgs {
+  filter: grayscale(100%);
+  border-radius: 50%;
+  height: 350px;
+  float:left;
+  width: auto;
+  border: 8px dotted #444444;
+}
+
+.coverBtn {
+  font-family: "Raleway", sans-serif;
+  text-shadow: none;
+  color: black;
+  color: rgb(72, 128, 82);
+  text-decoration: none;
+  padding-top: 5px;
+}
+
+.coverBtn:hover {
+  color: rgb(196, 159, 58);
+}
+
 
 @keyframes fadeIn {
   0% {
@@ -43,21 +48,61 @@
   }
 }
 
-.coverBtn {
-  font-family: "Raleway", sans-serif;
-  text-shadow: none;
-  color: black;
-  color: rgb(168, 146, 19);
-  text-decoration: none;
-  padding-top: 5px;
+@media only screen and (max-width: 1150px) {
+  
+  .text{
+    float:none;
+  }
+
+  .coverpage{
+    padding-left:300px;
+  }
+
+  .bio-imgs{
+    float:none;
+  }
+  
+ }
+
+ @media only screen and (max-width: 950px) {
+
+  .coverpage{
+    padding-left:200px;
+ 
+ }}
+
+ @media only screen and (max-width: 750px) {
+
+  .coverpage{
+    padding-left:100px;
+  }
+
+ }
+ 
+ @media only screen and (max-width: 550px) {
+
+  .coverpage{
+    padding-left:50px;
+  }
+
 }
 
-.coverBtn:hover {
-  color: rgb(143, 60, 51);
+ @media only screen and (max-width: 450px) {
+ 
+  .bio-imgs{
+      height:200px;
+    }
 }
 
-@media only screen and (max-width: 800px) {
-  .coverpageText {
-    padding-top: 370px;
+ @media only screen and (max-width: 260px) {
+  .bio-imgs{
+    height:150px;
   }
 }
+
+
+
+
+
+
+

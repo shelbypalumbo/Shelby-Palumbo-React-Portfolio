@@ -2,8 +2,8 @@ import React from "react";
 import Container from "../components/Container";
 import Row from "../components/Row";
 import Col from "../components/Col";
-import Headshot from "../images/headshot1.jpeg";
-import Cats from "../images/tableCats.jpg";
+
+import Cats from "../images/cats.jpg";
 import Navbar from "../components/Navbar";
 import Footer from "../components/Footer";
 import Wrapper from "../components/Wrapper";
@@ -29,9 +29,8 @@ function About() {
               <hr />
 
               <p>
-                <img src={Headshot} className="bio-imgs" alt="headshot" />
-                &nbsp;&nbsp; &nbsp;&nbsp; Hello, my name is Shelby Palumbo and I
-                am a Web Developer.
+                Hello, my name is Shelby Palumbo and I
+                 am a Web Developer.
               </p>
 
               <p>
@@ -47,9 +46,8 @@ function About() {
                 </a>
               </p>
               <p>
-                &nbsp;&nbsp; &nbsp;&nbsp;About a year ago, I decided to take a
-                look back on some of my old web development projects from
-                college and I was immediately drawn back in. I started classes
+                &nbsp;&nbsp; &nbsp;&nbsp;In 2019, I decided to take a
+                look back on some of my old websites from college and I was immediately drawn back in. I started classes
                 &nbsp;through Coursera, watching tutorials, and then I stumbled
                 upon the UCONN Full Stack Coding Bootcamp.
                 <img className="cat-imgs" src={Cats} alt="Loui and Mina" />
@@ -61,13 +59,13 @@ function About() {
                 challenge of an ever changing field and lifelong learning
                 exhilarating. I now have experience with{" "}
                 <strong className="technologies">
-                  React, MongoDB, MySql, Node.js, Express.js, JavaScript, HTML, and
-                  CSS.
+                  React, MongoDB, MySql, Node.js, Express.js, JavaScript, HTML,
+                  CSS, and so much more.
                 </strong>
               </p>
               <p>
                 &nbsp;&nbsp; &nbsp;&nbsp;These days you'll find me locked in on
-                a computer screen with a cup of coffee, or spending time with my
+                a computer screen with a cup of coffee, tending to my plant collection, working on my home, or spending time with my
                 two cats, Mina and Loui.
               </p>
               <p>

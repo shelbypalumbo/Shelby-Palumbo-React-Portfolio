@@ -7,7 +7,7 @@ function Footer() {
     <footer>
       <div className="position-sticky">
         <span>
-          &#169; SLP 2020 <i className="fas fa-cat"></i> &nbsp; &nbsp; &nbsp;
+          &#169; Shelby L. Palumbo 2023 &nbsp; &nbsp; &nbsp;
           <a
             className="li-ic"
             href="https://www.linkedin.com/in/shelby-palumbo/"
