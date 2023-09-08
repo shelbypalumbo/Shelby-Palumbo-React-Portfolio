@@ -7,8 +7,10 @@
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^9.5.0",
     "@testing-library/user-event": "^7.2.1",
+    "build": "^0.1.4",
     "create-react-class": "^15.7.0",
     "eslint": "^8.47.0",
+    "eslint-config-react-app": "^7.0.1",
     "flowtype": "^2.0.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
@@ -48,7 +50,7 @@
     ]
   },
   "devDependencies": {
-    "prettier": "2.0.4",
-    "gh-pages": "^2.2.0"
+    "gh-pages": "^2.2.0",
+    "prettier": "2.0.4"
   }
 }
