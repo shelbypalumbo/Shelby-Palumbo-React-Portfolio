@@ -1,12 +1,8 @@
 .jumbotron {
   background-image: url("../../images/ShelbyPalumbo.png");
   font-family: "Raleway", sans-serif;
-background-size:100% 100%;
-  /* background-size: cover; */
-  /* background-repeat: no-repeat; */
-  /* background-color: transparent; */
+  background-size:100% 100%;
   border-bottom: 5px solid rgb(133, 116, 19);
-  /* text-align: center; */
   text-decoration: bold;
   color: white;
   height:330px;
@@ -27,6 +23,6 @@ background-size:100% 100%;
 }
 @media only screen and (max-width: 550px) {
   .jumbotron{
-    height:170px;
+    height:150px;
   }
  }
