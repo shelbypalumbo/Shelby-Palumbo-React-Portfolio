@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Shelby-Palumbo-React-Portfolio/static/css/main.813294ff.css",
-    "main.js": "/Shelby-Palumbo-React-Portfolio/static/js/main.063cf274.js",
+    "main.js": "/Shelby-Palumbo-React-Portfolio/static/js/main.6df753b5.js",
     "static/media/ShelbyPalumbo.png": "/Shelby-Palumbo-React-Portfolio/static/media/ShelbyPalumbo.a241301c7555e6b395af.png",
     "static/media/cats.jpg": "/Shelby-Palumbo-React-Portfolio/static/media/cats.7bee7f82a674e2992230.jpg",
     "static/media/c12_chasis.png": "/Shelby-Palumbo-React-Portfolio/static/media/c12_chasis.368adb645c281a8c38e3.png",
@@ -25,10 +25,10 @@
     "static/media/linkedinBadge.png": "/Shelby-Palumbo-React-Portfolio/static/media/linkedinBadge.1a17223ae728d7b1fbf1.png",
     "index.html": "/Shelby-Palumbo-React-Portfolio/index.html",
     "main.813294ff.css.map": "/Shelby-Palumbo-React-Portfolio/static/css/main.813294ff.css.map",
-    "main.063cf274.js.map": "/Shelby-Palumbo-React-Portfolio/static/js/main.063cf274.js.map"
+    "main.6df753b5.js.map": "/Shelby-Palumbo-React-Portfolio/static/js/main.6df753b5.js.map"
   },
   "entrypoints": [
     "static/css/main.813294ff.css",
-    "static/js/main.063cf274.js"
+    "static/js/main.6df753b5.js"
   ]
 }
