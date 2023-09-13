@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/Shelby-Palumbo-React-Portfolio/static/css/main.945bfd79.css",
+    "main.js": "/Shelby-Palumbo-React-Portfolio/static/js/main.063cf274.js",
+    "static/media/ShelbyPalumbo.png": "/Shelby-Palumbo-React-Portfolio/static/media/ShelbyPalumbo.a241301c7555e6b395af.png",
+    "static/media/cats.jpg": "/Shelby-Palumbo-React-Portfolio/static/media/cats.7bee7f82a674e2992230.jpg",
+    "static/media/c12_chasis.png": "/Shelby-Palumbo-React-Portfolio/static/media/c12_chasis.368adb645c281a8c38e3.png",
+    "static/media/cutMylar.png": "/Shelby-Palumbo-React-Portfolio/static/media/cutMylar.00c27ba776c244f3d71d.png",
+    "static/media/47_systems.png": "/Shelby-Palumbo-React-Portfolio/static/media/47_systems.a65e031d2e4e0f394ea7.png",
+    "static/media/251repair.png": "/Shelby-Palumbo-React-Portfolio/static/media/251repair.4e002ca040b2f91a32cf.png",
+    "static/media/lap.jpg": "/Shelby-Palumbo-React-Portfolio/static/media/lap.f00267751c0b1929eda6.jpg",
+    "static/media/mylar.jpg": "/Shelby-Palumbo-React-Portfolio/static/media/mylar.f6c14d1198f908228c2f.jpg",
+    "static/media/c12.JPG": "/Shelby-Palumbo-React-Portfolio/static/media/c12.296d96fe0019c7806f71.JPG",
+    "static/media/vf14k.jpg": "/Shelby-Palumbo-React-Portfolio/static/media/vf14k.91efd190c1023ff56aea.jpg",
+    "static/media/employeeDirectory.png": "/Shelby-Palumbo-React-Portfolio/static/media/employeeDirectory.14bd0ba70d0b1a46ca96.png",
+    "static/media/me&lester.jpg": "/Shelby-Palumbo-React-Portfolio/static/media/me&lester.bb7662f93270319a6b47.jpg",
+    "static/media/me.png": "/Shelby-Palumbo-React-Portfolio/static/media/me.c5cc96902034687fa4fc.png",
+    "static/media/251.jpg": "/Shelby-Palumbo-React-Portfolio/static/media/251.05a5a4116c6129a79b5d.jpg",
+    "static/media/headshot1.jpeg": "/Shelby-Palumbo-React-Portfolio/static/media/headshot1.e876e4fbacff31ef2099.jpeg",
+    "static/media/u47.jpg": "/Shelby-Palumbo-React-Portfolio/static/media/u47.b4a221ff5121b1b89f56.jpg",
+    "static/media/transplate.jpg": "/Shelby-Palumbo-React-Portfolio/static/media/transplate.6c1d39951b397d1f53cf.jpg",
+    "static/media/Shelby_Palumbo_Resume.pdf": "/Shelby-Palumbo-React-Portfolio/static/media/Shelby_Palumbo_Resume.addd6853b8fe8cb31c25.pdf",
+    "static/media/memoryGame.png": "/Shelby-Palumbo-React-Portfolio/static/media/memoryGame.342a8075404959f80e0a.png",
+    "static/media/algor_rythm.png": "/Shelby-Palumbo-React-Portfolio/static/media/algor_rythm.e0e5562d3fc26b9806ef.png",
+    "static/media/linkedinBadge.png": "/Shelby-Palumbo-React-Portfolio/static/media/linkedinBadge.1a17223ae728d7b1fbf1.png",
+    "index.html": "/Shelby-Palumbo-React-Portfolio/index.html",
+    "main.945bfd79.css.map": "/Shelby-Palumbo-React-Portfolio/static/css/main.945bfd79.css.map",
+    "main.063cf274.js.map": "/Shelby-Palumbo-React-Portfolio/static/js/main.063cf274.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.945bfd79.css",
+    "static/js/main.063cf274.js"
+  ]
+}
