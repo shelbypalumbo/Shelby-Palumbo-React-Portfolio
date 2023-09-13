@@ -47,7 +47,7 @@ function About() {
               </p>
               <p>
                 &nbsp;&nbsp; &nbsp;&nbsp;In 2019, I decided to take a
-                look back on some of my old websites from college and I was immediately drawn back in. I started classes
+                look back at some of my websites from college and I was immediately drawn back in. I started classes
                 &nbsp;through Coursera, watching tutorials, and then I stumbled
                 upon the UCONN Full Stack Coding Bootcamp.
                 <img className="cat-imgs" src={Cats} alt="Loui and Mina" />
